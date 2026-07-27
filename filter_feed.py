@@ -151,6 +151,24 @@ for item in list(items):
 print(f"Images needing regeneration: {len(tasks)}")
 
 # -----------------------------------------------------
+# Delete images for products no longer in EDLP
+# -----------------------------------------------------
+
+existing_images = {
+    filename[:-4]
+    for filename in os.listdir(IMAGE_FOLDER)
+    if filename.endswith(".png")
+}
+
+for old_sku in existing_images - skus:
+
+    try:
+        os.remove(os.path.join(IMAGE_FOLDER, f"{old_sku}.png"))
+        print(f"Deleted {old_sku}.png")
+    except Exception as e:
+        print(f"Couldn't delete {old_sku}.png: {e}")
+
+# -----------------------------------------------------
 # Image Processor
 # -----------------------------------------------------
 
