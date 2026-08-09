@@ -37226,16 +37226,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Gaming Laptops</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>199276028242</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>199276028242</g:gtin>
 <link>https://www.croma.com/lenovo-loq-15arp10e-amd-ryzen-7-gaming-laptop-16gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-fhd-ips-display-nvidia-geforce-rtx-4050-ms-office-home-2024-luna-grey-1-8-kg-/p/323362</link>
 <g:price>190390.0 INR</g:price>
 <g:sale_price>115990.0 INR</g:sale_price>
 <g:brand>Lenovo</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323362_0_8P7mqAoQA.png?updatedAt=1783326326859</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323362_0_8P7mqAoQA.png?updatedAt=1783326326859</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323362.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323362.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Luna Grey </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
