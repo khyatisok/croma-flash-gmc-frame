@@ -6861,16 +6861,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Windows Laptops</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8906194458110</g:gtin>
+<g:gtin>8906194458110</g:gtin>
 <link>https://www.croma.com/acer-aspire-5-intel-core-ultra-5-laptop-16gb-512gb-ssd-windows-11-home-14-inch-wuxga-ips-display-ms-office-silver-1-2-kg-/p/323615</link>
 <g:price>99999.0 INR</g:price>
 <g:sale_price>68990.0 INR</g:sale_price>
 <g:brand>Acer</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323615.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323615.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323615_0_uEVNRr5R8Y.png?updatedAt=1783326915036</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323615_0_uEVNRr5R8Y.png?updatedAt=1783326915036</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Silver </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -15251,32 +15251,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>275290</g:id>
-<title>Croma Flip Cover for Apple iPad 10.9 Inch (Apple Compatible, Blue)</title>
-<description>Buy Croma 0.75 Ton 3 Star Window AC (Copper Condenser, Dust Filter) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Electronics Accessories &gt; Computer Accessories</g:google_product_category>
-<g:product_type>Computers &amp; Tablets&gt;Tablet &amp; iPad Accessories&gt;Tablet and iPad Covers Cases &amp; Sleeves</g:product_type>
-<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
-<g:custom_label_1>Tablet &amp; iPad Accessories</g:custom_label_1>
-<g:custom_label_2>Tablet and iPad Covers Cases &amp; Sleeves</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901876018163</g:gtin>
-<link>https://www.croma.com/croma-flip-cover-for-apple-ipad-10-9-inch-apple-compatible-blue-/p/275290</link>
-<g:price>1199.0 INR</g:price>
-<g:sale_price>499.0 INR</g:sale_price>
-<g:brand>Croma</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275290_0_rcw1cv.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275290_0_rcw1cv.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Blue </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>275270</g:id>
 <title>Croma 4-in-1 Rechargeable Cordless Grooming Kit for Nose, Ear, Eyebrow, Beard &amp; Moustache for Men (120min Runtime, IPX6 Water Resistant, Black)</title>
 <description>Buy Croma 0.75 Ton 3 Star Window AC (Copper Condenser, Dust Filter) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -15297,6 +15271,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/275270_0_dujtzw.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>275290</g:id>
+<title>Croma Flip Cover for Apple iPad 10.9 Inch (Apple Compatible, Blue)</title>
+<description>Buy Croma 0.75 Ton 3 Star Window AC (Copper Condenser, Dust Filter) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Electronics Accessories &gt; Computer Accessories</g:google_product_category>
+<g:product_type>Computers &amp; Tablets&gt;Tablet &amp; iPad Accessories&gt;Tablet and iPad Covers Cases &amp; Sleeves</g:product_type>
+<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
+<g:custom_label_1>Tablet &amp; iPad Accessories</g:custom_label_1>
+<g:custom_label_2>Tablet and iPad Covers Cases &amp; Sleeves</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901876018163</g:gtin>
+<link>https://www.croma.com/croma-flip-cover-for-apple-ipad-10-9-inch-apple-compatible-blue-/p/275290</link>
+<g:price>1199.0 INR</g:price>
+<g:sale_price>499.0 INR</g:sale_price>
+<g:brand>Croma</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275290_0_rcw1cv.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275290_0_rcw1cv.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Blue </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -18188,32 +18188,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>301464</g:id>
-<title>urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo)</title>
-<description>Buy urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Power Banks</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Power Banks</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906130401682</g:gtin>
-<link>https://www.croma.com/urbn-upr105-10000-mah-22-5w-fast-charging-power-bank-1-usb-type-a-and-2-type-c-ports-ultra-slim-power-delivery-compatible-camo-/p/301464</link>
-<g:price>2999.0 INR</g:price>
-<g:sale_price>999.0 INR</g:sale_price>
-<g:brand>Urbn</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Camo </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>302485</g:id>
 <title>Crompton Surebreeze Hill Briz 1 Star 1200mm 3 Blade Copper Motor Ceiling Fan (High Velocity, Ivory)</title>
 <description>Buy Crompton Surebreeze Hill Briz 1 Star 1200mm 3 Blade Copper Motor Ceiling Fan (High Velocity, Ivory) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -18234,6 +18208,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/302485_0_yq1ms2.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Ivory </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>301464</g:id>
+<title>urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo)</title>
+<description>Buy urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Power Banks</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Power Banks</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906130401682</g:gtin>
+<link>https://www.croma.com/urbn-upr105-10000-mah-22-5w-fast-charging-power-bank-1-usb-type-a-and-2-type-c-ports-ultra-slim-power-delivery-compatible-camo-/p/301464</link>
+<g:price>2999.0 INR</g:price>
+<g:sale_price>999.0 INR</g:sale_price>
+<g:brand>Urbn</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Camo </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -24428,32 +24428,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>234886</g:id>
-<title>Insta360 Dual-Lens 360 Mod Lens Guard for One R (Reinforced Lens Shields, IN.00000001.06, Black)</title>
-<description>Buy Insta360 Dual-Lens 360 Mod Lens Protector for One R (Reinforced Lens Shields, IN.00000001.06, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Cameras &amp; Optics &gt; Camera &amp; Optic Accessories</g:google_product_category>
-<g:product_type>Cameras &amp; Accessories&gt;Camera Accessories&gt;Camera Lens Accessories</g:product_type>
-<g:custom_label_0>Cameras &amp; Accessories</g:custom_label_0>
-<g:custom_label_1>Camera Accessories</g:custom_label_1>
-<g:custom_label_2>Camera Lens Accessories</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6970357851621</g:gtin>
-<link>https://www.croma.com/insta360-dual-lens-360-mod-lens-guard-for-one-r-reinforced-lens-shields-in-00000001-06-black-/p/234886</link>
-<g:price>3990.0 INR</g:price>
-<g:sale_price>634.0 INR</g:sale_price>
-<g:brand>Insta360</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>234891</g:id>
 <title>iGear Health Digital Pulse Monitor/Oximeter (Perfusion Index of 0.3%, iG-A3, White)</title>
 <description>&lt;p&gt;&lt;strong&gt;Why buy iGear Health Digital Pulse Monitor/Oximeter&lt;/strong&gt;&lt;/p&gt;
@@ -24490,6 +24464,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/234891_cyl1dm.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>234886</g:id>
+<title>Insta360 Dual-Lens 360 Mod Lens Guard for One R (Reinforced Lens Shields, IN.00000001.06, Black)</title>
+<description>Buy Insta360 Dual-Lens 360 Mod Lens Protector for One R (Reinforced Lens Shields, IN.00000001.06, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Cameras &amp; Optics &gt; Camera &amp; Optic Accessories</g:google_product_category>
+<g:product_type>Cameras &amp; Accessories&gt;Camera Accessories&gt;Camera Lens Accessories</g:product_type>
+<g:custom_label_0>Cameras &amp; Accessories</g:custom_label_0>
+<g:custom_label_1>Camera Accessories</g:custom_label_1>
+<g:custom_label_2>Camera Lens Accessories</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6970357851621</g:gtin>
+<link>https://www.croma.com/insta360-dual-lens-360-mod-lens-guard-for-one-r-reinforced-lens-shields-in-00000001-06-black-/p/234886</link>
+<g:price>3990.0 INR</g:price>
+<g:sale_price>634.0 INR</g:sale_price>
+<g:brand>Insta360</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -31147,6 +31147,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/301698_0_XbOw5L8n47.png?updatedAt=1763299335308</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Military Green &amp; Parrot Green </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>304417</g:id>
+<title>noise Buds VS102 Neo TWS Earbuds with Environmental Noise Cancellation (IPX5 Water Resistant, Hyper Sync Technology, Carbon Black)</title>
+<description>Buy noise Buds VS102 Neo TWS Earbuds with Environmental Noise Cancellation (IPX5 Water Resistant, Hyper Sync Technology, Carbon Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906146818719</g:gtin>
+<link>https://www.croma.com/noise-buds-vs102-neo-tws-earbuds-with-environmental-noise-cancellation-ipx5-water-resistant-hyper-sync-technology-carbon-black-/p/304417</link>
+<g:price>3499.0 INR</g:price>
+<g:sale_price>899.0 INR</g:sale_price>
+<g:brand>Noise</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/304417_oacpe2.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/304417_oacpe2.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Carbon Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -42643,16 +42669,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Kitchen Appliances</g:custom_label_0>
 <g:custom_label_1>Beverage Makers</g:custom_label_1>
 <g:custom_label_2>Coffee Makers</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876011553</g:gtin>
+<g:gtin>8901876011553</g:gtin>
 <link>https://www.croma.com/croma-600-watt-5-cups-manual-black-coffee-maker-with-rust-resistant-black-/p/245684</link>
 <g:price>2500.0 INR</g:price>
 <g:sale_price>1199.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/245684.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/245684.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Coffee%20Tea%20Makers/Images/245684_0_ZoB2weMn7.png?updatedAt=1764593366001</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Coffee%20Tea%20Makers/Images/245684_0_ZoB2weMn7.png?updatedAt=1764593366001</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -45008,36 +45034,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>317421</g:id>
-<title>Apple iPhone 17 Pro (512GB, Silver)</title>
-<description>Buy Apple iPhone 17 Pro (512GB, Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;iPhones</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Phones</g:custom_label_1>
-<g:custom_label_2>iPhones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>195950627701</g:gtin>
-<link>https://www.croma.com/apple-iphone-17-pro-512gb-silver-/p/317421</link>
-<g:price>154900.0 INR</g:price>
-<g:sale_price>148990.0 INR</g:sale_price>
-<g:brand>Apple</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317421_0_pwBpx4eNx.png?updatedAt=1757529346352</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317421_0_pwBpx4eNx.png?updatedAt=1757529346352</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Silver </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>99.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>318959</g:id>
 <title>HP OMEN 16-am0240tx Intel Core Ultra 7 Gaming Laptop (24GB, 1TB SSD, Windows 11 Home, 8GB Graphics, 16 inch 165 Hz 2K IPS Display, NVIDIA GeForce RTX 5050, MS Office Home 2024, Shadow Black, 2.43 KG)</title>
 <description>Buy HP OMEN 16-am0240tx Intel Core Ultra 7 Gaming Laptop (24GB, 1TB SSD, Windows 11 Home, 8GB Graphics, 16 inch 165 Hz 2K IPS Display, NVIDIA GeForce RTX 5050, MS Office Home 2024, Shadow Black, 2.43 KG) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -47390,32 +47386,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>318603</g:id>
-<title>GOBOULT TuneX TWS Earbuds with Active Noise Cancellation (IPX5 Water Resistant, Fast Charging, Blue)</title>
-<description>Buy GOBOULT TuneX TWS Earbuds with Active Noise Cancellation (IPX5 Water Resistant, Fast Charging, Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906133857356</g:gtin>
-<link>https://www.croma.com/goboult-tunex-tws-earbuds-with-active-noise-cancellation-ipx5-water-resistant-fast-charging-blue-/p/318603</link>
-<g:price>5999.0 INR</g:price>
-<g:sale_price>1999.0 INR</g:sale_price>
-<g:brand>GOBOULT</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/318603_0__ngPeB9L_F.png?updatedAt=1757674547348</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/318603_0__ngPeB9L_F.png?updatedAt=1757674547348</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Blue </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>305976</g:id>
 <title>Croma Hard Polycarbonate Back Cover for Apple iPhone 15 Plus (MagSafe Compatible, Grey)</title>
 <description>Buy Croma Hard Polycarbonate Back Cover for Apple iPhone 15 Plus (MagSafe Compatible, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -47436,6 +47406,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/305976_0_qqan5g.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Grey </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>318603</g:id>
+<title>GOBOULT TuneX TWS Earbuds with Active Noise Cancellation (IPX5 Water Resistant, Fast Charging, Blue)</title>
+<description>Buy GOBOULT TuneX TWS Earbuds with Active Noise Cancellation (IPX5 Water Resistant, Fast Charging, Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906133857356</g:gtin>
+<link>https://www.croma.com/goboult-tunex-tws-earbuds-with-active-noise-cancellation-ipx5-water-resistant-fast-charging-blue-/p/318603</link>
+<g:price>5999.0 INR</g:price>
+<g:sale_price>1999.0 INR</g:sale_price>
+<g:brand>GOBOULT</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/318603_0__ngPeB9L_F.png?updatedAt=1757674547348</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/318603_0__ngPeB9L_F.png?updatedAt=1757674547348</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Blue </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -52967,16 +52963,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Windows Laptops</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>5397184733790</g:gtin>
+<g:gtin>5397184733790</g:gtin>
 <link>https://www.croma.com/dell-dc15255-amd-ryzen-5-notebook-laptop-8gb-512gb-ssd-windows-11-15-6-inch-full-hd-display-ms-office-home-2024-carbon-black-1-66-kg-/p/323047</link>
 <g:price>75489.0 INR</g:price>
 <g:sale_price>56990.0 INR</g:sale_price>
 <g:brand>Dell</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323047.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323047.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323047_0_E-BKxB649.png?updatedAt=1780904231057</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323047_0_E-BKxB649.png?updatedAt=1780904231057</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Carbon Black </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -54569,36 +54565,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/324571_0_bqmsudDkd.png?updatedAt=1783500241221</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Blue </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>79.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>323001</g:id>
-<title>OnePlus Nord CE6 5G (8GB RAM, 256GB, Fresh Blue)</title>
-<description>Buy OnePlus Nord CE6 5G (8GB RAM, 256GB, Fresh Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Phones</g:custom_label_1>
-<g:custom_label_2>Android Phones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6921815631811</g:gtin>
-<link>https://www.croma.com/oneplus-nord-ce6-5g-8gb-ram-256gb-fresh-blue-/p/323001</link>
-<g:price>43999.0 INR</g:price>
-<g:sale_price>38999.0 INR</g:sale_price>
-<g:brand>OnePlus</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323001_0_sRaoT7y1F.png?updatedAt=1778151957093</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323001_0_sRaoT7y1F.png?updatedAt=1778151957093</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Fresh Blue </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
@@ -73066,16 +73032,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Kitchen Appliances</g:custom_label_0>
 <g:custom_label_1>Microwave &amp; Ovens</g:custom_label_1>
 <g:custom_label_2>Oven-Toaster-Grills (OTG)</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876026557</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876026557</g:gtin>
 <link>https://www.croma.com/croma-10l-oven-toaster-grill-with-adjustable-thermostat-black-/p/318764</link>
 <g:price>4000.0 INR</g:price>
 <g:sale_price>1799.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/318764_1nrJoxVIa.gif?updatedAt=1774957009343</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/318764_1nrJoxVIa.gif?updatedAt=1774957009343</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/318764.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/318764.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -81088,16 +81054,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
 <g:custom_label_2>Front Load Washing Machines</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876023747</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876023747</g:gtin>
 <link>https://www.croma.com/croma-7-kg-5-star-inverter-fully-automatic-front-load-washing-machine-2025-model-built-in-heater-silver-grey-/p/309537</link>
 <g:price>40000.0 INR</g:price>
 <g:sale_price>23990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/309537_B_TmY7RJWW.gif?updatedAt=1776164811190</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/309537_B_TmY7RJWW.gif?updatedAt=1776164811190</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/309537.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/309537.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Silver Grey </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -86689,16 +86655,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
 <g:custom_label_2>Top Load Washing Machines</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876011324</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876011324</g:gtin>
 <link>https://www.croma.com/croma-7-5-kg-5-star-fully-automatic-top-load-washing-machine-fuzzy-control-grey-/p/243594</link>
 <g:price>24000.0 INR</g:price>
 <g:sale_price>14290.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/243594_0_Dx1dqbLlt.png?updatedAt=1781679039503</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/243594_0_Dx1dqbLlt.png?updatedAt=1781679039503</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/243594.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/243594.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Grey </g:color>
 <g:shipping>
@@ -110392,32 +110358,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>304417</g:id>
-<title>noise Buds VS102 Neo TWS Earbuds with Environmental Noise Cancellation (IPX5 Water Resistant, Hyper Sync Technology, Carbon Black)</title>
-<description>Buy noise Buds VS102 Neo TWS Earbuds with Environmental Noise Cancellation (IPX5 Water Resistant, Hyper Sync Technology, Carbon Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906146818719</g:gtin>
-<link>https://www.croma.com/noise-buds-vs102-neo-tws-earbuds-with-environmental-noise-cancellation-ipx5-water-resistant-hyper-sync-technology-carbon-black-/p/304417</link>
-<g:price>3499.0 INR</g:price>
-<g:sale_price>899.0 INR</g:sale_price>
-<g:brand>Noise</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/304417_oacpe2.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/304417_oacpe2.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Carbon Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>323771</g:id>
 <title>oppo Reno 16 5G (8GB RAM, 256GB, Twilight Violet)</title>
 <description>Buy oppo Reno 16 5G (8GB RAM, 256GB, Twilight Violet) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -121020,6 +120960,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>317421</g:id>
+<title>Apple iPhone 17 Pro (512GB, Silver)</title>
+<description>Buy Apple iPhone 17 Pro (512GB, Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;iPhones</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Phones</g:custom_label_1>
+<g:custom_label_2>iPhones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>195950627701</g:gtin>
+<link>https://www.croma.com/apple-iphone-17-pro-512gb-silver-/p/317421</link>
+<g:price>154900.0 INR</g:price>
+<g:sale_price>148990.0 INR</g:sale_price>
+<g:brand>Apple</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317421_0_pwBpx4eNx.png?updatedAt=1757529346352</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/317421_0_pwBpx4eNx.png?updatedAt=1757529346352</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Silver </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>99.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>317575</g:id>
 <title>Apple Watch Series 11 GPS+Cellular with Black Sport Band - M/L (42mm Retina LTPO3 OLED Display, Space Grey Aluminium Case)</title>
 <description>Buy Apple Watch Series 11 GPS+Cellular with Black Sport Band - M/L (42mm Retina LTPO3 OLED Display, Space Grey Aluminium Case) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -127423,6 +127393,36 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>323001</g:id>
+<title>OnePlus Nord CE6 5G (8GB RAM, 256GB, Fresh Blue)</title>
+<description>Buy OnePlus Nord CE6 5G (8GB RAM, 256GB, Fresh Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Phones</g:custom_label_1>
+<g:custom_label_2>Android Phones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6921815631811</g:gtin>
+<link>https://www.croma.com/oneplus-nord-ce6-5g-8gb-ram-256gb-fresh-blue-/p/323001</link>
+<g:price>43999.0 INR</g:price>
+<g:sale_price>38999.0 INR</g:sale_price>
+<g:brand>OnePlus</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323001_0_sRaoT7y1F.png?updatedAt=1778151957093</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323001_0_sRaoT7y1F.png?updatedAt=1778151957093</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Fresh Blue </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>79.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
