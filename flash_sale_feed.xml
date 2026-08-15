@@ -72830,16 +72830,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Kitchen Appliances</g:custom_label_0>
 <g:custom_label_1>Microwave &amp; Ovens</g:custom_label_1>
 <g:custom_label_2>Oven-Toaster-Grills (OTG)</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876026557</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876026557</g:gtin>
 <link>https://www.croma.com/croma-10l-oven-toaster-grill-with-adjustable-thermostat-black-/p/318764</link>
 <g:price>4000.0 INR</g:price>
 <g:sale_price>1799.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/318764_1nrJoxVIa.gif?updatedAt=1774957009343</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/318764_1nrJoxVIa.gif?updatedAt=1774957009343</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/318764.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/318764.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -80800,16 +80800,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
 <g:custom_label_2>Front Load Washing Machines</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876023747</g:gtin>
+<g:gtin>8901876023747</g:gtin>
 <link>https://www.croma.com/croma-7-kg-5-star-inverter-fully-automatic-front-load-washing-machine-2025-model-built-in-heater-silver-grey-/p/309537</link>
 <g:price>40000.0 INR</g:price>
 <g:sale_price>23990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/309537.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/309537.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/309537_B_TmY7RJWW.gif?updatedAt=1776164811190</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/309537_B_TmY7RJWW.gif?updatedAt=1776164811190</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Silver Grey </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
