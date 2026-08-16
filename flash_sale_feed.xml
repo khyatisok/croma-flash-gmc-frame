@@ -82245,16 +82245,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Kitchen Appliances</g:custom_label_0>
 <g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
 <g:custom_label_2>Mixer Grinders</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876023631</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876023631</g:gtin>
 <link>https://www.croma.com/croma-1000-watt-4-jars-mixer-grinder-20000-rpm-copper-motor-black-silver-/p/308749</link>
 <g:price>9000.0 INR</g:price>
 <g:sale_price>3999.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/308749_0_dmgxb3ZLX.png?updatedAt=1764593486459</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/308749_0_dmgxb3ZLX.png?updatedAt=1764593486459</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/308749.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/308749.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black &amp; Silver </g:color>
 <g:shipping>
@@ -127235,16 +127235,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Televisions &amp; Accessories</g:custom_label_0>
 <g:custom_label_1>LED TVs</g:custom_label_1>
 <g:custom_label_2>Smart TVs</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876027578</g:gtin>
+<g:gtin>8901876027578</g:gtin>
 <link>https://www.croma.com/croma-80-cm-32-inch-1-star-hd-ready-led-smart-linux-tv-with-a+-grade-panel-2026-model-/p/320127</link>
 <g:price>18000.0 INR</g:price>
 <g:sale_price>9990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/320127.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/320127.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/320127_0_9MoqLJiaq.png?updatedAt=1779775724569</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/320127_0_9MoqLJiaq.png?updatedAt=1779775724569</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -152729,16 +152729,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
 <g:custom_label_2>Top Load Washing Machines</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876018774</g:gtin>
+<g:gtin>8901876018774</g:gtin>
 <link>https://www.croma.com/croma-6-5-kg-5-star-fully-automatic-top-load-washing-machine-crlw065faf264504-lint-filter-inox-grey-/p/300438</link>
 <g:price>20000.0 INR</g:price>
 <g:sale_price>13290.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/300438.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/300438.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/300438_TlptE9Ony.gif?updatedAt=1766140204415</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/300438_TlptE9Ony.gif?updatedAt=1766140204415</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> Inox Grey </g:color>
 <g:shipping>
