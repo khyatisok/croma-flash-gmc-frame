@@ -10886,16 +10886,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
 <g:custom_label_1>Mobile Phones</g:custom_label_1>
 <g:custom_label_2>Android Phones</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8806097928645</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8806097928645</g:gtin>
 <link>https://www.croma.com/samsung-galaxy-a07-5g-6gb-ram-128gb-light-green-/p/320543</link>
 <g:price>21499.0 INR</g:price>
 <g:sale_price>20499.0 INR</g:sale_price>
 <g:brand>Samsung</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/320543_0_3rMuOpnbC.png?updatedAt=1770123485082</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/320543_0_3rMuOpnbC.png?updatedAt=1770123485082</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/320543.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/320543.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Light Green </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -27313,16 +27313,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Garment Care</g:custom_label_1>
 <g:custom_label_2>Steam Irons</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876025475</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876025475</g:gtin>
 <link>https://www.croma.com/croma-1600-watts-210ml-steam-iron-360-degree-swivel-cord-brown-/p/315858</link>
 <g:price>2000.0 INR</g:price>
 <g:sale_price>899.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Garment%20Care/Images/315858_0_p7Lti1dZ5.png?updatedAt=1766068233535</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Garment%20Care/Images/315858_0_p7Lti1dZ5.png?updatedAt=1766068233535</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/315858.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/315858.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Brown </g:color>
 <g:shipping>
@@ -41261,16 +41261,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Kitchen Appliances</g:custom_label_0>
 <g:custom_label_1>Beverage Makers</g:custom_label_1>
 <g:custom_label_2>Coffee Makers</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876011553</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876011553</g:gtin>
 <link>https://www.croma.com/croma-600-watt-5-cups-manual-black-coffee-maker-with-rust-resistant-black-/p/245684</link>
 <g:price>2500.0 INR</g:price>
 <g:sale_price>1499.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Coffee%20Tea%20Makers/Images/245684_0_ZoB2weMn7.png?updatedAt=1764593366001</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Coffee%20Tea%20Makers/Images/245684_0_ZoB2weMn7.png?updatedAt=1764593366001</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/245684.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/245684.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -43718,16 +43718,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Gaming Laptops</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>199896686556</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>199896686556</g:gtin>
 <link>https://www.croma.com/hp-victus-15-fa2558tx-intel-core-5-gaming-laptop-24gb-512gb-ssd-windows-11-home-6gb-graphics-15-6-inch-144-hz-full-hd-ips-display-nvidia-geforce-rtx-3050-ms-office-home-2024-performance-blue-2-29-kg-/p/321343</link>
 <g:price>164309.0 INR</g:price>
 <g:sale_price>112990.0 INR</g:sale_price>
 <g:brand>HP</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/321343_0_kephgIBMr.png?updatedAt=1786441628544</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/321343_0_kephgIBMr.png?updatedAt=1786441628544</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/321343.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/321343.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Performance Blue </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -55362,16 +55362,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
 <g:custom_label_2>Semi Automatic Washing Machines</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876023150</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876023150</g:gtin>
 <link>https://www.croma.com/croma-6-5-kg-5-star-semi-automatic-washing-machine-with-built-in-soak-function-burgundy-/p/307023</link>
 <g:price>12000.0 INR</g:price>
 <g:sale_price>8290.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/307023_0_uQomkrUcL.png?updatedAt=1773300539534</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/307023_0_uQomkrUcL.png?updatedAt=1773300539534</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/307023.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/307023.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Burgandy </g:color>
 <g:shipping>
@@ -57867,16 +57867,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Televisions &amp; Accessories</g:custom_label_0>
 <g:custom_label_1>LED TVs</g:custom_label_1>
 <g:custom_label_2>QLED TVs</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876028278</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876028278</g:gtin>
 <link>https://www.croma.com/croma-80-cm-32-inch-2-star-hd-qled-smart-google-tv-5-0-with-quad-core-processor-2026-model-/p/322822</link>
 <g:price>18000.0 INR</g:price>
 <g:sale_price>14490.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322822_0_EK_s2_p2C.png?updatedAt=1782203198620</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/Images/322822_0_EK_s2_p2C.png?updatedAt=1782203198620</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/322822.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/322822.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -60902,16 +60902,16 @@ updated, stay happy! </description>
 <g:product_type>Kitchen Appliances&gt;Electric Chimneys</g:product_type>
 <g:custom_label_0>Kitchen Appliances</g:custom_label_0>
 <g:custom_label_1>Electric Chimneys</g:custom_label_1>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876022559</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876022559</g:gtin>
 <link>https://www.croma.com/croma-ag1108-60cm-900m3-hr-ducted-wall-mounted-chimney-with-push-button-control-black-/p/306057</link>
 <g:price>8500.0 INR</g:price>
 <g:sale_price>4499.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/306057_Bis-1Jf_u.gif?updatedAt=1766140219082</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/306057_Bis-1Jf_u.gif?updatedAt=1766140219082</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/306057.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/306057.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -63624,16 +63624,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Air Conditioners</g:custom_label_1>
 <g:custom_label_2>Inverter ACs</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876027196</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876027196</g:gtin>
 <link>https://www.croma.com/croma-7-in-1-convertible-1-5-ton-3-star-inverter-split-ac-with-self-diagnosis-2026-model-copper-condenser-crla018ind342404-/p/319782</link>
 <g:price>42000.0 INR</g:price>
 <g:sale_price>31990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/319782_Bjl69ThFh.gif?updatedAt=1774956973329</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/319782_Bjl69ThFh.gif?updatedAt=1774956973329</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/319782.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/319782.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White Glossy </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -65960,16 +65960,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
 <g:custom_label_2>Semi Automatic Washing Machines</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876018798</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876018798</g:gtin>
 <link>https://www.croma.com/croma-8-kg-5-star-semi-automatic-washing-machine-with-magic-filter-crlw080smf248602-black-/p/300475</link>
 <g:price>16000.0 INR</g:price>
 <g:sale_price>9990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/300475_0_Ol4z1IzKF1.png?updatedAt=1773143121573</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/300475_0_Ol4z1IzKF1.png?updatedAt=1773143121573</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/300475.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/300475.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -66448,16 +66448,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Refrigerators &amp; Freezers</g:custom_label_1>
 <g:custom_label_2>Single Door Refrigerators</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876027417</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876027417</g:gtin>
 <link>https://www.croma.com/croma-185-litres-2-star-direct-cool-single-door-refrigerator-with-anti-fungal-gasket-wine-floral-/p/319928</link>
 <g:price>16000.0 INR</g:price>
 <g:sale_price>13290.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/319928_0_xkrOtk9W3.png?updatedAt=1780485674687</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/319928_0_xkrOtk9W3.png?updatedAt=1780485674687</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/319928.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/319928.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Wine Floral </g:color>
 <g:shipping>
@@ -69222,16 +69222,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Kitchen Appliances</g:custom_label_0>
 <g:custom_label_1>Microwave &amp; Ovens</g:custom_label_1>
 <g:custom_label_2>Oven-Toaster-Grills (OTG)</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876026557</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876026557</g:gtin>
 <link>https://www.croma.com/croma-10l-oven-toaster-grill-with-adjustable-thermostat-black-/p/318764</link>
 <g:price>4000.0 INR</g:price>
 <g:sale_price>1899.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/318764_1nrJoxVIa.gif?updatedAt=1774957009343</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/318764_1nrJoxVIa.gif?updatedAt=1774957009343</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/318764.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/318764.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -83738,16 +83738,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Geysers</g:custom_label_1>
 <g:custom_label_2>Instant Geysers</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876025673</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876025673</g:gtin>
 <link>https://www.croma.com/croma-3-litre-vertical-instant-geyser-with-built-in-thermostat-white-/p/316401</link>
 <g:price>4500.0 INR</g:price>
 <g:sale_price>2799.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316401_0_HpqYVzFWL.png?updatedAt=1764593258464</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316401_0_HpqYVzFWL.png?updatedAt=1764593258464</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/316401.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/316401.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White </g:color>
 <g:shipping>
