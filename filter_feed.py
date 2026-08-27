@@ -25,7 +25,7 @@ IMAGE_BASE_URL = "https://khyatisok.github.io/croma-flash-gmc-frame/images"
 OUTPUT_SIZE = 1080
 
 # Resize product to 75% of canvas
-SCALE = 0.47
+SCALE = 0.57
 
 # Frame image
 FRAME_PATH = "frame.png"
