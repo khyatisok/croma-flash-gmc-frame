@@ -575,7 +575,7 @@ updated, stay happy! </description>
 <g:gtin>195950086188</g:gtin>
 <link>https://www.croma.com/apple-ipad-a16-bionic-chip-wi-fi-11-inch-128gb-silver-2025-model-/p/324285</link>
 <g:price>49900.0 INR</g:price>
-<g:sale_price>47990.0 INR</g:sale_price>
+<g:sale_price>47490.0 INR</g:sale_price>
 <g:brand>Apple</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324285_0_POehSlHb5.png?updatedAt=1782721146451</g:image_link>
@@ -729,36 +729,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>321314</g:id>
-<title>Xiaomi Pad 8 Wi-Fi Android Tablet (11.2 Inch, 12GB RAM, 256GB ROM, Graphite Grey)</title>
-<description>Buy Xiaomi Pad 8 Wi-Fi Android Tablet (11.2 Inch, 12GB RAM, 256GB ROM, Graphite Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Computers &gt; Tablet Computers</g:google_product_category>
-<g:product_type>Computers &amp; Tablets&gt;Tablets eReaders&gt;Android Tablets</g:product_type>
-<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
-<g:custom_label_1>Tablets eReaders</g:custom_label_1>
-<g:custom_label_2>Android Tablets</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8904523800630</g:gtin>
-<link>https://www.croma.com/xiaomi-pad-8-wi-fi-android-tablet-11-2-inch-12gb-ram-256gb-rom-graphite-grey-/p/321314</link>
-<g:price>48999.0 INR</g:price>
-<g:sale_price>46999.0 INR</g:sale_price>
-<g:brand>Xiaomi</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20And%20iPads%20/Images/321314_0_grsFtz-5u.png?updatedAt=1773841150754</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20And%20iPads%20/Images/321314_0_grsFtz-5u.png?updatedAt=1773841150754</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Graphite Grey </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>323776</g:id>
 <title>oppo Reno 16 5G (12GB RAM, 256GB, Starry White)</title>
 <description>Buy oppo Reno 16 5G (12GB RAM, 256GB, Starry White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -786,6 +756,36 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>321314</g:id>
+<title>Xiaomi Pad 8 Wi-Fi Android Tablet (11.2 Inch, 12GB RAM, 256GB ROM, Graphite Grey)</title>
+<description>Buy Xiaomi Pad 8 Wi-Fi Android Tablet (11.2 Inch, 12GB RAM, 256GB ROM, Graphite Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Computers &gt; Tablet Computers</g:google_product_category>
+<g:product_type>Computers &amp; Tablets&gt;Tablets eReaders&gt;Android Tablets</g:product_type>
+<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
+<g:custom_label_1>Tablets eReaders</g:custom_label_1>
+<g:custom_label_2>Android Tablets</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8904523800630</g:gtin>
+<link>https://www.croma.com/xiaomi-pad-8-wi-fi-android-tablet-11-2-inch-12gb-ram-256gb-rom-graphite-grey-/p/321314</link>
+<g:price>48999.0 INR</g:price>
+<g:sale_price>46999.0 INR</g:sale_price>
+<g:brand>Xiaomi</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20And%20iPads%20/Images/321314_0_grsFtz-5u.png?updatedAt=1773841150754</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20And%20iPads%20/Images/321314_0_grsFtz-5u.png?updatedAt=1773841150754</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Graphite Grey </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -1890,32 +1890,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>316088</g:id>
-<title>soundREVO Melbourne Nylon, PU Fabric Laptop Backpack for 14 Inch Laptop (6.99 L, Water Resistant, Green)</title>
-<description>Buy soundREVO Melbourne Nylon, PU Fabric Laptop Backpack for 14 Inch Laptop (6.99 L, Water Resistant, Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Electronics Accessories &gt; Computer Accessories</g:google_product_category>
-<g:product_type>Computers &amp; Tablets&gt;Computer And Laptop Accessories&gt;Laptop Bags</g:product_type>
-<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
-<g:custom_label_1>Computer And Laptop Accessories</g:custom_label_1>
-<g:custom_label_2>Laptop Bags</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901876025499</g:gtin>
-<link>https://www.croma.com/soundrevo-melbourne-nylon-pu-fabric-laptop-backpack-for-14-inch-laptop-6-99-l-water-resistant-green-/p/316088</link>
-<g:price>2099.0 INR</g:price>
-<g:sale_price>1304.0 INR</g:sale_price>
-<g:brand>Soundrevo</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Bags%20And%20Sleeves/Images/316088_0_JePFSVIGo.png?updatedAt=1763097368722</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Bags%20And%20Sleeves/Images/316088_0_JePFSVIGo.png?updatedAt=1763097368722</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Green </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>318243</g:id>
 <title>Croma Frost Tempered Glass &amp; TPU Back Cover Combo for Apple iPhone Air (Magsafe Charging Compatible, Clear Ice)</title>
 <description>Buy Croma Frost Tempered Glass &amp; TPU Back Cover Combo for Apple iPhone Air (Magsafe Charging Compatible, Clear Ice) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -1936,6 +1910,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/318243_0_juz8qIPjjx.png?updatedAt=1758280218619</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Clear Ice </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>316088</g:id>
+<title>soundREVO Melbourne Nylon, PU Fabric Laptop Backpack for 14 Inch Laptop (6.99 L, Water Resistant, Green)</title>
+<description>Buy soundREVO Melbourne Nylon, PU Fabric Laptop Backpack for 14 Inch Laptop (6.99 L, Water Resistant, Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Electronics Accessories &gt; Computer Accessories</g:google_product_category>
+<g:product_type>Computers &amp; Tablets&gt;Computer And Laptop Accessories&gt;Laptop Bags</g:product_type>
+<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
+<g:custom_label_1>Computer And Laptop Accessories</g:custom_label_1>
+<g:custom_label_2>Laptop Bags</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901876025499</g:gtin>
+<link>https://www.croma.com/soundrevo-melbourne-nylon-pu-fabric-laptop-backpack-for-14-inch-laptop-6-99-l-water-resistant-green-/p/316088</link>
+<g:price>2099.0 INR</g:price>
+<g:sale_price>1304.0 INR</g:sale_price>
+<g:brand>Soundrevo</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Bags%20And%20Sleeves/Images/316088_0_JePFSVIGo.png?updatedAt=1763097368722</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Bags%20And%20Sleeves/Images/316088_0_JePFSVIGo.png?updatedAt=1763097368722</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Green </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -2148,6 +2148,31 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>303225</g:id>
+<title>FLEXSON Floor Stand (Optimum Listening Height, FLXERA100FSWHT, White)</title>
+<description>Buy FLEXSON Floor Stand (Optimum Listening Height, FLXERA100FSWHT, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Accessories</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Audio Accessories</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Audio Accessories</g:custom_label_1>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>5057964002705</g:gtin>
+<link>https://www.croma.com/flexson-floor-stand-optimum-listening-height-flxera100fswht-white-/p/303225</link>
+<g:price>8800.0 INR</g:price>
+<g:sale_price>8800.0 INR</g:sale_price>
+<g:brand>Sonos</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/303225_bdzzwa.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/303225_bdzzwa.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>301109</g:id>
 <title>GRIPP Combat Hard TPU &amp; Polycarbonate Back Cover for Apple iPhone 15 (Anti Bacterial Technology, Clear)</title>
 <description>Buy GRIPP Combat Hard TPU &amp; Polycarbonate Back Cover for Apple iPhone 15 (Anti Bacterial Technology, Clear) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -2171,31 +2196,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>303225</g:id>
-<title>FLEXSON Floor Stand (Optimum Listening Height, FLXERA100FSWHT, White)</title>
-<description>Buy FLEXSON Floor Stand (Optimum Listening Height, FLXERA100FSWHT, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Accessories</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Audio Accessories</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Audio Accessories</g:custom_label_1>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>5057964002705</g:gtin>
-<link>https://www.croma.com/flexson-floor-stand-optimum-listening-height-flxera100fswht-white-/p/303225</link>
-<g:price>8800.0 INR</g:price>
-<g:sale_price>8800.0 INR</g:sale_price>
-<g:brand>Sonos</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/303225_bdzzwa.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/303225_bdzzwa.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -4034,6 +4034,32 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/312922_utuxfg.png</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/312922_utuxfg.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>310689</g:id>
+<title>Croma 2000W Induction Cooktop with 8 Preset Menus</title>
+<description>Buy Croma 2000W Induction Cooktop with 8 Preset Menus online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Cooktops</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Stoves &amp; Cooktops&gt;Induction Cooktops</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Stoves &amp; Cooktops</g:custom_label_1>
+<g:custom_label_2>Induction Cooktops</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901876023761</g:gtin>
+<link>https://www.croma.com/croma-2000w-induction-cooktop-with-8-preset-menus/p/310689</link>
+<g:price>4500.0 INR</g:price>
+<g:sale_price>3799.0 INR</g:sale_price>
+<g:brand>Croma</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/310689_qlf36u.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/310689_qlf36u.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -8864,6 +8890,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>234192</g:id>
+<title>Marshall Major IV Bluetooth Headphone with Mic (Upto 80 Hours Playback, On Ear, Black)</title>
+<description>Buy Marshall Major IV Bluetooth Headset with Mic (Upto 80 Hours Playback, On Ear, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Bluetooth Headphones</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Bluetooth Headphones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>7340055379458</g:gtin>
+<link>https://www.croma.com/marshall-major-iv-bluetooth-headphone-with-mic-upto-80-hours-playback-on-ear-black-/p/234192</link>
+<g:price>14999.0 INR</g:price>
+<g:sale_price>9999.0 INR</g:sale_price>
+<g:brand>Marshall</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/234192_0_iNmDS7kuM.png?updatedAt=1766428436251</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/234192_0_iNmDS7kuM.png?updatedAt=1766428436251</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>300366</g:id>
 <title>HAVELLS SUPER 15-in-1 Rechargeable Cordless Grooming Kit for Hair, Beard, Body Groomer, Nose &amp; Ear for Men (120min Runtime, IPX7 Waterproof, Black)</title>
 <description>Buy HAVELLS SUPER 15-in-1 Rechargeable Cordless Grooming Kit for Hair, Beard, Body Groomer, Nose &amp; Ear for Men (120min Runtime, IPX7 Waterproof, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -9778,32 +9830,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>247425</g:id>
-<title>neopack Delta TPU Back Case for Apple iPad (All Gen) (With Pencil Holder, Midnight Blue)</title>
-<description>Buy neopack Delta TPU Back Case for Apple iPad (All Gen) (With Pencil Holder, Midnight Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Electronics Accessories &gt; Computer Accessories</g:google_product_category>
-<g:product_type>Computers &amp; Tablets&gt;Tablet &amp; iPad Accessories&gt;Tablet and iPad Covers Cases &amp; Sleeves</g:product_type>
-<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
-<g:custom_label_1>Tablet &amp; iPad Accessories</g:custom_label_1>
-<g:custom_label_2>Tablet and iPad Covers Cases &amp; Sleeves</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906046405750</g:gtin>
-<link>https://www.croma.com/neopack-delta-tpu-back-case-for-apple-ipad-all-gen-with-pencil-holder-midnight-blue-/p/247425</link>
-<g:price>2499.0 INR</g:price>
-<g:sale_price>794.0 INR</g:sale_price>
-<g:brand>NeoPack</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/247425_0_syrwqk.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/247425_0_syrwqk.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Midnight Blue </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>247705</g:id>
 <title>Yale Smart Digital Lock For Private Space (Smart Keypad, YDME 50 NxT, Black)</title>
 <description>Buy Yale Smart Digital Lock For Private Space (Smart Keypad, YDME 50 NxT, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -9827,6 +9853,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>247425</g:id>
+<title>neopack Delta TPU Back Case for Apple iPad (All Gen) (With Pencil Holder, Midnight Blue)</title>
+<description>Buy neopack Delta TPU Back Case for Apple iPad (All Gen) (With Pencil Holder, Midnight Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Electronics Accessories &gt; Computer Accessories</g:google_product_category>
+<g:product_type>Computers &amp; Tablets&gt;Tablet &amp; iPad Accessories&gt;Tablet and iPad Covers Cases &amp; Sleeves</g:product_type>
+<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
+<g:custom_label_1>Tablet &amp; iPad Accessories</g:custom_label_1>
+<g:custom_label_2>Tablet and iPad Covers Cases &amp; Sleeves</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906046405750</g:gtin>
+<link>https://www.croma.com/neopack-delta-tpu-back-case-for-apple-ipad-all-gen-with-pencil-holder-midnight-blue-/p/247425</link>
+<g:price>2499.0 INR</g:price>
+<g:sale_price>794.0 INR</g:sale_price>
+<g:brand>NeoPack</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/247425_0_syrwqk.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/247425_0_syrwqk.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Midnight Blue </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -10622,32 +10674,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/203511_0_f7pnuo.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>268684</g:id>
-<title>V-Guard 2 Amps Voltage Stabilizer For Up to 300 Liters Refrigerator (135 - 280 V, Fail Safe Circuit Protection, VG 50, Red)</title>
-<description>Buy V-Guard 2 Amps Voltage Stabilizer For Up to 300 Liters Refrigerator (135 - 280 V, Fail Safe Circuit Protection, VG 50, Red) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category/>
-<g:product_type>Home Appliances&gt;Electrical Equipments&gt;Voltage Stabilizers</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Electrical Equipments</g:custom_label_1>
-<g:custom_label_2>Voltage Stabilizers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8904254200044</g:gtin>
-<link>https://www.croma.com/v-guard-2-amps-voltage-stabilizer-for-up-to-300-liters-refrigerator-135-280-v-fail-safe-circuit-protection-vg-50-red-/p/268684</link>
-<g:price>1890.0 INR</g:price>
-<g:sale_price>1889.0 INR</g:sale_price>
-<g:brand>V-Guard</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Media%20Streaming%20Devices/Images/268684_0_bhfokj.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Media%20Streaming%20Devices/Images/268684_0_bhfokj.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Red </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -15817,32 +15843,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>257217</g:id>
-<title>Quix Type C to Type C 4.95 Feet (1.5 M) Cable (Sync &amp; Charge, Black)</title>
-<description>Buy Quix Type C to Type C 4.95 Feet (1.5 M) Cable (Sync &amp; Charge, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;USB Cables</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>USB Cables</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>758475444071</g:gtin>
-<link>https://www.croma.com/quix-type-c-to-type-c-4-95-feet-1-5-m-cable-sync-charge-black-/p/257217</link>
-<g:price>399.0 INR</g:price>
-<g:sale_price>240.0 INR</g:sale_price>
-<g:brand>QUIX</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/257217_0_bzmjmk.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/257217_0_bzmjmk.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>272419</g:id>
 <title>SONY WH-1000XM5 Bluetooth Headphone with Mic (Auto Noise Cancellation Optimizer, Over Ear, Blue)</title>
 <description>Buy SONY WH-1000XM5 Bluetooth Headphone with Mic (Auto Noise Cancellation Optimizer, Over Ear, Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -15921,6 +15921,32 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/182261_0_pgah1g.png</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/182261_0_pgah1g.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>257217</g:id>
+<title>Quix Type C to Type C 4.95 Feet (1.5 M) Cable (Sync &amp; Charge, Black)</title>
+<description>Buy Quix Type C to Type C 4.95 Feet (1.5 M) Cable (Sync &amp; Charge, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;USB Cables</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>USB Cables</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>758475444071</g:gtin>
+<link>https://www.croma.com/quix-type-c-to-type-c-4-95-feet-1-5-m-cable-sync-charge-black-/p/257217</link>
+<g:price>399.0 INR</g:price>
+<g:sale_price>240.0 INR</g:sale_price>
+<g:brand>QUIX</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/257217_0_bzmjmk.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/257217_0_bzmjmk.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -16576,32 +16602,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>275366</g:id>
-<title>Xiaomi 2C Rechargeable Cordless Dry Trimmer for Beard &amp; Moustache with 40 Length Settings for Men (90min Runtime, Quick &amp; Versatile Charge, Black)</title>
-<description>Buy Xiaomi 2C Rechargeable Cordless Dry Trimmer for Beard &amp; Moustache with 40 Length Settings for Men (90min Runtime, Quick &amp; Versatile Charge, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Shaving &amp; Grooming</g:google_product_category>
-<g:product_type>Grooming &amp; Personal Care&gt;Personal Grooming Products&gt;Trimmers</g:product_type>
-<g:custom_label_0>Grooming &amp; Personal Care</g:custom_label_0>
-<g:custom_label_1>Personal Grooming Products</g:custom_label_1>
-<g:custom_label_2>Trimmers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6934177795237</g:gtin>
-<link>https://www.croma.com/xiaomi-2c-rechargeable-cordless-dry-trimmer-for-beard-moustache-with-40-length-settings-for-men-90min-runtime-quick-versatile-charge-black-/p/275366</link>
-<g:price>1999.0 INR</g:price>
-<g:sale_price>1199.0 INR</g:sale_price>
-<g:brand>Xiaomi</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/275366_0_uyi1ei.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/275366_0_uyi1ei.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>275221</g:id>
 <title>Croma Cordless Dry Trimmer for Nose Eyebrows &amp; Ears for Men &amp; Women (120 min High Speed Motor, Black)</title>
 <description>Buy Croma Cordless Dry Trimmer for Nose Eyebrows &amp; Ears for Men &amp; Women (120 min High Speed Motor, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -16620,6 +16620,32 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/275221_0_x5vaos.png</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/275221_0_x5vaos.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>275366</g:id>
+<title>Xiaomi 2C Rechargeable Cordless Dry Trimmer for Beard &amp; Moustache with 40 Length Settings for Men (90min Runtime, Quick &amp; Versatile Charge, Black)</title>
+<description>Buy Xiaomi 2C Rechargeable Cordless Dry Trimmer for Beard &amp; Moustache with 40 Length Settings for Men (90min Runtime, Quick &amp; Versatile Charge, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Shaving &amp; Grooming</g:google_product_category>
+<g:product_type>Grooming &amp; Personal Care&gt;Personal Grooming Products&gt;Trimmers</g:product_type>
+<g:custom_label_0>Grooming &amp; Personal Care</g:custom_label_0>
+<g:custom_label_1>Personal Grooming Products</g:custom_label_1>
+<g:custom_label_2>Trimmers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6934177795237</g:gtin>
+<link>https://www.croma.com/xiaomi-2c-rechargeable-cordless-dry-trimmer-for-beard-moustache-with-40-length-settings-for-men-90min-runtime-quick-versatile-charge-black-/p/275366</link>
+<g:price>1999.0 INR</g:price>
+<g:sale_price>1199.0 INR</g:sale_price>
+<g:brand>Xiaomi</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/275366_0_uyi1ei.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/275366_0_uyi1ei.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -17901,32 +17927,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>301464</g:id>
-<title>urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo)</title>
-<description>Buy urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Power Banks</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Power Banks</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906130401682</g:gtin>
-<link>https://www.croma.com/urbn-upr105-10000-mah-22-5w-fast-charging-power-bank-1-usb-type-a-and-2-type-c-ports-ultra-slim-power-delivery-compatible-camo-/p/301464</link>
-<g:price>2999.0 INR</g:price>
-<g:sale_price>999.0 INR</g:sale_price>
-<g:brand>Urbn</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Camo </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>302485</g:id>
 <title>Crompton Surebreeze Hill Briz 1 Star 1200mm 3 Blade Copper Motor Ceiling Fan (High Velocity, Ivory)</title>
 <description>Buy Crompton Surebreeze Hill Briz 1 Star 1200mm 3 Blade Copper Motor Ceiling Fan (High Velocity, Ivory) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -17947,6 +17947,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/302485_0_yq1ms2.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Ivory </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>301464</g:id>
+<title>urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo)</title>
+<description>Buy urbn UPR105 10000 mAh 22.5W Fast Charging Power Bank (1 USB Type A and 2 Type C Ports, Ultra Slim, Power Delivery Compatible, Camo) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Power Banks</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Power Banks</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906130401682</g:gtin>
+<link>https://www.croma.com/urbn-upr105-10000-mah-22-5w-fast-charging-power-bank-1-usb-type-a-and-2-type-c-ports-ultra-slim-power-delivery-compatible-camo-/p/301464</link>
+<g:price>2999.0 INR</g:price>
+<g:sale_price>999.0 INR</g:sale_price>
+<g:brand>Urbn</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/301464_0_n8rzs2.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Camo </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -19010,31 +19036,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>270028</g:id>
-<title>PROMOUNTS Bracket For Air Conditioner (Texture Finish, SACWMB23P, Grey)</title>
-<description>Buy Promounts Bracket For Air Conditioner (Texture Finish, SACWMB23P, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Air Conditioner Accessories</g:google_product_category>
-<g:product_type>Accessories&gt;Air Conditioner Accessories</g:product_type>
-<g:custom_label_0>Accessories</g:custom_label_0>
-<g:custom_label_1>Air Conditioner Accessories</g:custom_label_1>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906096900403</g:gtin>
-<link>https://www.croma.com/promounts-bracket-for-air-conditioner-texture-finish-sacwmb23p-grey-/p/270028</link>
-<g:price>799.0 INR</g:price>
-<g:sale_price>799.0 INR</g:sale_price>
-<g:brand>Promounts</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/AC%20Accessories/Images/270028_aazcvp.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/AC%20Accessories/Images/270028_aazcvp.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Grey </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>220727</g:id>
 <title>Oakter Alexa &amp; Google Assistant Smart Home Kit For Home Appliances (Voice Control, White)</title>
 <description>Buy Oakter Alexa &amp; Google Assistant Smart Home Kit For Home Appliances (Voice Control, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -19058,6 +19059,31 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>270028</g:id>
+<title>PROMOUNTS Bracket For Air Conditioner (Texture Finish, SACWMB23P, Grey)</title>
+<description>Buy Promounts Bracket For Air Conditioner (Texture Finish, SACWMB23P, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Air Conditioner Accessories</g:google_product_category>
+<g:product_type>Accessories&gt;Air Conditioner Accessories</g:product_type>
+<g:custom_label_0>Accessories</g:custom_label_0>
+<g:custom_label_1>Air Conditioner Accessories</g:custom_label_1>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906096900403</g:gtin>
+<link>https://www.croma.com/promounts-bracket-for-air-conditioner-texture-finish-sacwmb23p-grey-/p/270028</link>
+<g:price>799.0 INR</g:price>
+<g:sale_price>799.0 INR</g:sale_price>
+<g:brand>Promounts</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/AC%20Accessories/Images/270028_aazcvp.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/AC%20Accessories/Images/270028_aazcvp.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Grey </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -21110,32 +21136,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>307054</g:id>
-<title>JBL Go 4 4.2W Portable Bluetooth Speaker (IP67 Waterproof, JBL Pro Sound with Punchy Bass, Stereo Channel, Black)</title>
-<description>Buy JBL Go 4 4.2W Portable Bluetooth Speaker (IP67 Waterproof, JBL Pro Sound with Punchy Bass, Stereo Channel, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Speaker &amp; Media Player&gt;Portable Bluetooth Speakers</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Speaker &amp; Media Player</g:custom_label_1>
-<g:custom_label_2>Portable Bluetooth Speakers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>1200130009433</g:gtin>
-<link>https://www.croma.com/jbl-go-4-4-2w-portable-bluetooth-speaker-ip67-waterproof-jbl-pro-sound-with-punchy-bass-stereo-channel-black-/p/307054</link>
-<g:price>5499.0 INR</g:price>
-<g:sale_price>3499.0 INR</g:sale_price>
-<g:brand>JBL</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/307054_0_j69lcy.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/307054_0_j69lcy.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>200052</g:id>
 <title>logitech M331 Plus 2.4GHz Wireless Optical Mouse with Silent Click Buttons (1000 DPI, Plug &amp; Play, Black)</title>
 <description>Buy logitech M331 Plus 2.4GHz Wireless Optical Mouse with Silent Click Buttons (1000 DPI, Plug &amp; Play, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -21154,6 +21154,32 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/200052_hjk7o0.png</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/200052_hjk7o0.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>307054</g:id>
+<title>JBL Go 4 4.2W Portable Bluetooth Speaker (IP67 Waterproof, JBL Pro Sound with Punchy Bass, Stereo Channel, Black)</title>
+<description>Buy JBL Go 4 4.2W Portable Bluetooth Speaker (IP67 Waterproof, JBL Pro Sound with Punchy Bass, Stereo Channel, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Speaker &amp; Media Player&gt;Portable Bluetooth Speakers</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Speaker &amp; Media Player</g:custom_label_1>
+<g:custom_label_2>Portable Bluetooth Speakers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>1200130009433</g:gtin>
+<link>https://www.croma.com/jbl-go-4-4-2w-portable-bluetooth-speaker-ip67-waterproof-jbl-pro-sound-with-punchy-bass-stereo-channel-black-/p/307054</link>
+<g:price>5499.0 INR</g:price>
+<g:sale_price>3499.0 INR</g:sale_price>
+<g:brand>JBL</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/307054_0_j69lcy.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/307054_0_j69lcy.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -26201,31 +26227,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>207025</g:id>
-<title>Whirlpool Washing Machine Cover for 360 Degree 7.2 Kgs Fully Automiatic Washing Machine (7100000076, Off-white)</title>
-<description>Buy Whirlpool Washing Machine Cover for 360 Degree 7.2 Kgs Fully Automiatic Washing Machine (7100000076, Off-white) online. Checkout its specifications, features, customer reviews &amp; price on Croma.com.</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Laundry Appliance Accessories</g:google_product_category>
-<g:product_type>Home Appliances&gt;Washing Machine With Stands&gt;Washer/Dryer Covers &amp; Stands</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Washing Machine With Stands</g:custom_label_1>
-<g:custom_label_2>Washer/Dryer Covers &amp; Stands</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<link>https://www.croma.com/whirlpool-washing-machine-cover-for-360-degree-7-2-kgs-fully-automiatic-washing-machine-7100000076-off-white-/p/207025</link>
-<g:price>600.0 INR</g:price>
-<g:sale_price>484.0 INR</g:sale_price>
-<g:brand>Whirlpool</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Accessories/Images/8879123759134.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Accessories/Images/8879123759134.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Off White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>208082</g:id>
 <title>VEGA Adore Hair Straightener with Easy Lock System (Ceramic Plates, Black &amp; Pink)</title>
 <description>Buy VEGA Adore Hair Straightener with Easy Lock System (Ceramic Plates, Black &amp; Pink) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -26246,6 +26247,31 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Hair%20Care/Images/208082_bruqqx.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black/Pink </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>207025</g:id>
+<title>Whirlpool Washing Machine Cover for 360 Degree 7.2 Kgs Fully Automiatic Washing Machine (7100000076, Off-white)</title>
+<description>Buy Whirlpool Washing Machine Cover for 360 Degree 7.2 Kgs Fully Automiatic Washing Machine (7100000076, Off-white) online. Checkout its specifications, features, customer reviews &amp; price on Croma.com.</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Laundry Appliance Accessories</g:google_product_category>
+<g:product_type>Home Appliances&gt;Washing Machine With Stands&gt;Washer/Dryer Covers &amp; Stands</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Washing Machine With Stands</g:custom_label_1>
+<g:custom_label_2>Washer/Dryer Covers &amp; Stands</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<link>https://www.croma.com/whirlpool-washing-machine-cover-for-360-degree-7-2-kgs-fully-automiatic-washing-machine-7100000076-off-white-/p/207025</link>
+<g:price>600.0 INR</g:price>
+<g:sale_price>484.0 INR</g:sale_price>
+<g:brand>Whirlpool</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Accessories/Images/8879123759134.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Accessories/Images/8879123759134.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Off White </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -26454,32 +26480,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/308407_0_lgbkrd.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Acoustic Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>311028</g:id>
-<title>Crompton Eris 1000 Watts Dry Iron (6 Fabric Settings, Yellow &amp; Black)</title>
-<description>Buy Crompton Eris 1000 Watts Dry Iron (6 Fabric Settings, Yellow &amp; Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category/>
-<g:product_type>Home Appliances&gt;Garment Care&gt;Irons</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Garment Care</g:custom_label_1>
-<g:custom_label_2>Irons</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8902653271559</g:gtin>
-<link>https://www.croma.com/crompton-eris-1000-watts-dry-iron-6-fabric-settings-yellow-black-/p/311028</link>
-<g:price>1050.0 INR</g:price>
-<g:sale_price>569.0 INR</g:sale_price>
-<g:brand>Crompton</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Garment%20Care/Images/311028_yzwtld.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Garment%20Care/Images/311028_yzwtld.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Yellow and Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -27472,6 +27472,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>324321</g:id>
+<title>Apple iPad Air M4 Chip Wi-Fi (11 Inch, 256GB, Space Grey, 2026 Model)</title>
+<description>Buy Apple iPad Air M4 Chip Wi-Fi (11 Inch, 256GB, Space Grey, 2026 Model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Computers &gt; Tablet Computers</g:google_product_category>
+<g:product_type>Computers &amp; Tablets&gt;Tablets eReaders&gt;iPads</g:product_type>
+<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
+<g:custom_label_1>Tablets eReaders</g:custom_label_1>
+<g:custom_label_2>iPads</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>195950824445</g:gtin>
+<link>https://www.croma.com/apple-ipad-air-m4-chip-wi-fi-11-inch-256gb-space-grey-2026-model-/p/324321</link>
+<g:price>101900.0 INR</g:price>
+<g:sale_price>96990.0 INR</g:sale_price>
+<g:brand>Apple</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324321_0_fOEqQDRQUu.png?updatedAt=1782721189899</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324321_0_fOEqQDRQUu.png?updatedAt=1782721189899</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Space Grey </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>322928</g:id>
 <title>vivo Y400 5G (8GB RAM, 128GB, Olive Green)</title>
 <description>Buy vivo Y400 5G (8GB RAM, 128GB, Olive Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -27898,32 +27928,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>227702</g:id>
-<title>CONTEC Pulse Oximeter (Low Power Consumption, CMS50N1, Blue)</title>
-<description>Buy Contec Pulse Oximeter (Low Power Consumption, CMS50N1, Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Health &amp; Beauty &gt; Health Care</g:google_product_category>
-<g:product_type>Health &amp; Fitness&gt;Health Care Products&gt;Health Monitors</g:product_type>
-<g:custom_label_0>Health &amp; Fitness</g:custom_label_0>
-<g:custom_label_1>Health Care Products</g:custom_label_1>
-<g:custom_label_2>Health Monitors</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6945040104087</g:gtin>
-<link>https://www.croma.com/contec-pulse-oximeter-low-power-consumption-cms50n1-blue-/p/227702</link>
-<g:price>3590.0 INR</g:price>
-<g:sale_price>1194.0 INR</g:sale_price>
-<g:brand>Contec</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/227702_qk8dgo.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/227702_qk8dgo.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Blue </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>269686</g:id>
 <title>HYPHEN TPU Back Case &amp; Tempered Glass for Samsung Galaxy S23 Ultra (Slip Resistant, Transparent)</title>
 <description>Buy Hyphen TPU Back Case &amp; Tempered Glass for Samsung Galaxy S23 Ultra (Slip Resistant, Transparent) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -27944,6 +27948,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/269686_0_kwttvx.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Transparent </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>227702</g:id>
+<title>CONTEC Pulse Oximeter (Low Power Consumption, CMS50N1, Blue)</title>
+<description>Buy Contec Pulse Oximeter (Low Power Consumption, CMS50N1, Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Health &amp; Beauty &gt; Health Care</g:google_product_category>
+<g:product_type>Health &amp; Fitness&gt;Health Care Products&gt;Health Monitors</g:product_type>
+<g:custom_label_0>Health &amp; Fitness</g:custom_label_0>
+<g:custom_label_1>Health Care Products</g:custom_label_1>
+<g:custom_label_2>Health Monitors</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6945040104087</g:gtin>
+<link>https://www.croma.com/contec-pulse-oximeter-low-power-consumption-cms50n1-blue-/p/227702</link>
+<g:price>3590.0 INR</g:price>
+<g:sale_price>1194.0 INR</g:sale_price>
+<g:brand>Contec</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/227702_qk8dgo.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/227702_qk8dgo.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Blue </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -28876,32 +28906,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>274003</g:id>
-<title>GRIPP GR-S23-CLR Hard Silicon Back Case for Samsung S23 (Anti-bacterial Technology, Transparent)</title>
-<description>Buy GRIPP GR-S23-CLR Hard Silicon Back Case for Samsung S23 (Anti-bacterial Technology, Transparent) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Cover &amp; Cases</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Mobile Cover &amp; Cases</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>760122885564</g:gtin>
-<link>https://www.croma.com/gripp-gr-s23-clr-hard-silicon-back-case-for-samsung-s23-anti-bacterial-technology-transparent-/p/274003</link>
-<g:price>1490.0 INR</g:price>
-<g:sale_price>999.0 INR</g:sale_price>
-<g:brand>Gripp</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/274003_0_ermfv4.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/274003_0_ermfv4.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Transparent </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>272019</g:id>
 <title>BAJAJ Ninja Series Gracio Lilac 500 Watt 3 Jars Mixer Grinder (20000 RPM, Pulse Mode, White and Lilac)</title>
 <description>Buy BAJAJ Ninja Series Gracio Lilac 500 Watt 3 Jars Mixer Grinder (20000 RPM, Pulse Mode, White and Lilac) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -28928,6 +28932,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>274003</g:id>
+<title>GRIPP GR-S23-CLR Hard Silicon Back Case for Samsung S23 (Anti-bacterial Technology, Transparent)</title>
+<description>Buy GRIPP GR-S23-CLR Hard Silicon Back Case for Samsung S23 (Anti-bacterial Technology, Transparent) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Cover &amp; Cases</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Mobile Cover &amp; Cases</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>760122885564</g:gtin>
+<link>https://www.croma.com/gripp-gr-s23-clr-hard-silicon-back-case-for-samsung-s23-anti-bacterial-technology-transparent-/p/274003</link>
+<g:price>1490.0 INR</g:price>
+<g:sale_price>999.0 INR</g:sale_price>
+<g:brand>Gripp</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/274003_0_ermfv4.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/274003_0_ermfv4.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Transparent </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>265954</g:id>
 <title>KENT Amaze 1500 Watt 1.8 Litre Electric Kettle with 360 Degree Rotation Base (White)</title>
 <description>Buy KENT Amaze 1500 Watt 1.8 Litre Electric Kettle with 360 Degree Rotation Base (White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -28948,32 +28978,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Kettles/Images/265954_0_tfldtg.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>223533</g:id>
-<title>World Of PLAY PLAYGO N23 Neckband (IPX5 Sweatproof, 20 Hours Playback, Galaxy Black)</title>
-<description>Buy World Of PLAY PLAYGO N23 Neckband (IPX5 Sweatproof, 20 Hours Playback, Galaxy Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Bluetooth Earphones</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Bluetooth Earphones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8908013534043</g:gtin>
-<link>https://www.croma.com/world-of-play-playgo-n23-neckband-ipx5-sweatproof-20-hours-playback-galaxy-black-/p/223533</link>
-<g:price>3499.0 INR</g:price>
-<g:sale_price>1999.0 INR</g:sale_price>
-<g:brand>Huawei</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/223533_0_fmot9d.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/223533_0_fmot9d.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -32587,36 +32591,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>318413</g:id>
-<title>Google Pixel 10 5G (12GB RAM, 256GB, Frost)</title>
-<description>Buy Google Pixel 10 5G (12GB RAM, 256GB, Frost) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Phones</g:custom_label_1>
-<g:custom_label_2>Android Phones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>840353926585</g:gtin>
-<link>https://www.croma.com/google-pixel-10-5g-12gb-ram-256gb-frost-/p/318413</link>
-<g:price>79999.0 INR</g:price>
-<g:sale_price>74999.0 INR</g:sale_price>
-<g:brand>Google</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/318413_0_7hv28YScjE.png?updatedAt=1755701356865</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/318413_0_7hv28YScjE.png?updatedAt=1755701356865</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Frost </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>129.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>317353</g:id>
 <title>ASUS AP1601 Laptop Backpack for 16 Inch Laptop (Mesh Padded Back, Grey)</title>
 <description>Buy ASUS AP1601 Laptop Backpack for 16 Inch Laptop (Mesh Padded Back, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -33442,6 +33416,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>320348</g:id>
+<title>GABIT GSR0110GB Smart Ring with AI Powered Health Insights (Size 10, Skin Temperature Sensor, Graphite Black)</title>
+<description>Buy GABIT GSR0110GB Smart Ring with AI Powered Health Insights (Size 10, Skin Temperature Sensor, Graphite Black) online at best prices from Croma. Check product details, reviews &amp; more.</description>
+<g:google_product_category/>
+<g:product_type>Phones &amp; Wearables&gt;Wearables&gt;Smart Rings</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Wearables</g:custom_label_1>
+<g:custom_label_2>Smart Rings</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906171888749</g:gtin>
+<link>https://www.croma.com/gabit-gsr0110gb-smart-ring-with-ai-powered-health-insights-size-10-skin-temperature-sensor-graphite-black-/p/320348</link>
+<g:price>14500.0 INR</g:price>
+<g:sale_price>14500.0 INR</g:sale_price>
+<g:brand>GABIT</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/320348_0_jkSoz4epgG.png?updatedAt=1777034796813</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/320348_0_jkSoz4epgG.png?updatedAt=1777034796813</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Graphite Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -38426,6 +38426,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>320336</g:id>
+<title>GABIT GSR0108G Smart Ring with AI Powered Health Insights (Size 8, Skin Temperature Sensor, Gold)</title>
+<description>Buy GABIT GSR0108G Smart Ring with AI Powered Health Insights (Size 8, Skin Temperature Sensor, Gold) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category/>
+<g:product_type>Phones &amp; Wearables&gt;Wearables&gt;Smart Rings</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Wearables</g:custom_label_1>
+<g:custom_label_2>Smart Rings</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906171885878</g:gtin>
+<link>https://www.croma.com/gabit-gsr0108g-smart-ring-with-ai-powered-health-insights-size-8-skin-temperature-sensor-gold-/p/320336</link>
+<g:price>14500.0 INR</g:price>
+<g:sale_price>14500.0 INR</g:sale_price>
+<g:brand>GABIT</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/320336_0_0J48v3vxOr.png?updatedAt=1777032523287</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/320336_0_0J48v3vxOr.png?updatedAt=1777032523287</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Gold </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>323593</g:id>
 <title>OptiSafe SWTGOPGLSAA37 Tempered Glass for SAMSUNG A37 (9H Surface Hardness)</title>
 <description>Buy OptiSafe SWTGOPGLSAA37 Tempered Glass for SAMSUNG A37 (9H Surface Hardness) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -41651,36 +41677,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>322942</g:id>
-<title>vivo V70 Elite 5G (8GB RAM, 256GB, Sand Beige)</title>
-<description>Buy vivo V70 Elite 5G (8GB RAM, 256GB, Sand Beige) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Phones</g:custom_label_1>
-<g:custom_label_2>Android Phones</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6932204520302</g:gtin>
-<link>https://www.croma.com/vivo-v70-elite-5g-8gb-ram-256gb-sand-beige-/p/322942</link>
-<g:price>79999.0 INR</g:price>
-<g:sale_price>66999.0 INR</g:sale_price>
-<g:brand>Vivo</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322942_0_A3kOWGEeF.png?updatedAt=1781775765090</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322942_0_A3kOWGEeF.png?updatedAt=1781775765090</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Sand Beige </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>129.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>323217</g:id>
 <title>Oppo Find X9s 5G (12GB RAM, 512GB, Lavender Sky)</title>
 <description>Buy Oppo Find X9s 5G (12GB RAM, 512GB, Lavender Sky) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -44407,36 +44403,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>324277</g:id>
-<title>Apple MacBook Pro (14.2 inch, M5, 24GB, 1TB, macOS Tahoe, Silver)</title>
-<description>Buy Apple MacBook Pro (14.2 inch, M5, 24GB, 1TB, macOS Tahoe, Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Computers &gt; Laptops</g:google_product_category>
-<g:product_type>Computers &amp; Tablets&gt;Laptops&gt;Macbooks</g:product_type>
-<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
-<g:custom_label_1>Laptops</g:custom_label_1>
-<g:custom_label_2>Macbooks</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>195950491272</g:gtin>
-<link>https://www.croma.com/apple-macbook-pro-14-2-inch-m5-24gb-1tb-macos-tahoe-silver-/p/324277</link>
-<g:price>263900.0 INR</g:price>
-<g:sale_price>245490.0 INR</g:sale_price>
-<g:brand>Apple</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/324277_0_GD9vjhq_3.png?updatedAt=1782721361927</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/324277_0_GD9vjhq_3.png?updatedAt=1782721361927</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Silver </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>199.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>320394</g:id>
 <title>Redmi Note 15 Pro 5G (8GB RAM, 256GB, Mirage Blue)</title>
 <description>Buy Redmi Note 15 Pro 5G (8GB RAM, 256GB, Mirage Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -47028,6 +46994,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>324302</g:id>
+<title>Apple iPad Air M4 Chip Wi-Fi (13 Inch, 256GB, Space Grey, 2026 Model)</title>
+<description>Buy Apple iPad Air M4 Chip Wi-Fi (13 Inch, 256GB, Space Grey, 2026 Model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Computers &gt; Tablet Computers</g:google_product_category>
+<g:product_type>Computers &amp; Tablets&gt;Tablets eReaders&gt;iPads</g:product_type>
+<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
+<g:custom_label_1>Tablets eReaders</g:custom_label_1>
+<g:custom_label_2>iPads</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>195950798685</g:gtin>
+<link>https://www.croma.com/apple-ipad-air-m4-chip-wi-fi-13-inch-256gb-space-grey-2026-model-/p/324302</link>
+<g:price>131900.0 INR</g:price>
+<g:sale_price>125490.0 INR</g:sale_price>
+<g:brand>Apple</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324302_0_DZWKgMPWg.png?updatedAt=1782804270411</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324302_0_DZWKgMPWg.png?updatedAt=1782804270411</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Space Grey </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>322464</g:id>
 <title>Oppo A6x 5G (4GB RAM, 128GB, Ice Blue)</title>
 <description>Buy Oppo A6x 5G (4GB RAM, 128GB, Ice Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -47986,6 +47982,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>316821</g:id>
+<title>HAVELLS Athena 3000 Watts 320 ml  Steam Iron (Smart i-Sense, Black)</title>
+<description>Buy HAVELLS Athena 3000 Watts 320 ml  Steam Iron (Smart i-Sense, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category/>
+<g:product_type>Home Appliances&gt;Garment Care&gt;Steam Irons</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Garment Care</g:custom_label_1>
+<g:custom_label_2>Steam Irons</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901762050031</g:gtin>
+<link>https://www.croma.com/havells-athena-3000-watts-320-ml-steam-iron-smart-i-sense-black-/p/316821</link>
+<g:price>6999.0 INR</g:price>
+<g:sale_price>4759.0 INR</g:sale_price>
+<g:brand>Havells</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Appliances/Images/316821_0_nx5eyt.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Appliances/Images/316821_0_nx5eyt.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>322096</g:id>
 <title>Cable Guys Marvel Deadpool 3 Gaming Accessory For Gaming Controllers and Mobile Phones (PC00003535, Red)</title>
 <description>Buy Cable Guys Marvel Deadpool 3 Gaming Accessory For Gaming Controllers and Mobile Phones (PC00003535, Red) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -48669,32 +48691,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>304134</g:id>
-<title>SAMSUNG Vegan Leather Back Cover for SAMSUNG Galaxy S24 (Gentle Inner Lining, Black)</title>
-<description>Buy SAMSUNG Vegan Leather Back Cover for SAMSUNG Galaxy S24 (Gentle Inner Lining, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Cover &amp; Cases</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Mobile Cover &amp; Cases</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6974994160764</g:gtin>
-<link>https://www.croma.com/samsung-vegan-leather-back-cover-for-samsung-galaxy-s24-gentle-inner-lining-black-/p/304134</link>
-<g:price>4499.0 INR</g:price>
-<g:sale_price>384.0 INR</g:sale_price>
-<g:brand>Samsung</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/304134_hclbrs.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/304134_hclbrs.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>305114</g:id>
 <title>noise NoiseFit Twist Go Smartwatch with Bluetooth Calling (35.3mm TFT HD Display, IP67 Water Resistant, Jet Black Strap)</title>
 <description>Buy noise NoiseFit Twist Go Smartwatch with Bluetooth Calling (35.3mm TFT HD Display, IP67 Water Resistant, Jet Black Strap) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -48715,6 +48711,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/305114_0_jY5udGAfY.png?updatedAt=1758550624617</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Jet Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>304134</g:id>
+<title>SAMSUNG Vegan Leather Back Cover for SAMSUNG Galaxy S24 (Gentle Inner Lining, Black)</title>
+<description>Buy SAMSUNG Vegan Leather Back Cover for SAMSUNG Galaxy S24 (Gentle Inner Lining, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Cover &amp; Cases</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Mobile Cover &amp; Cases</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6974994160764</g:gtin>
+<link>https://www.croma.com/samsung-vegan-leather-back-cover-for-samsung-galaxy-s24-gentle-inner-lining-black-/p/304134</link>
+<g:price>4499.0 INR</g:price>
+<g:sale_price>384.0 INR</g:sale_price>
+<g:brand>Samsung</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/304134_hclbrs.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/304134_hclbrs.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -48751,32 +48773,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>307710</g:id>
-<title>boAt Airdopes Ultra Plus TWS Earbuds with Passive Noise Cancellation (IPX5 Sweat Resistant, ASAP Charge, Active Black)</title>
-<description>Buy boAt Airdopes Ultra Plus TWS Earbuds with Passive Noise Cancellation (IPX5 Sweat Resistant, ASAP Charge, Active Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8905650088465</g:gtin>
-<link>https://www.croma.com/boat-airdopes-ultra-plus-tws-earbuds-with-passive-noise-cancellation-ipx5-sweat-resistant-asap-charge-active-black-/p/307710</link>
-<g:price>4990.0 INR</g:price>
-<g:sale_price>1099.0 INR</g:sale_price>
-<g:brand>boAt</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/307710_0_OlHb1utSQl.png?updatedAt=1756793291508</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/307710_0_OlHb1utSQl.png?updatedAt=1756793291508</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Active Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>319130</g:id>
 <title>SAMSUNG Galaxy F17 5G (8GB RAM, 128GB, Neo Black)</title>
 <description>Buy SAMSUNG Galaxy F17 5G (8GB RAM, 128GB, Neo Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -48804,6 +48800,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>79.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>307710</g:id>
+<title>boAt Airdopes Ultra Plus TWS Earbuds with Passive Noise Cancellation (IPX5 Sweat Resistant, ASAP Charge, Active Black)</title>
+<description>Buy boAt Airdopes Ultra Plus TWS Earbuds with Passive Noise Cancellation (IPX5 Sweat Resistant, ASAP Charge, Active Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8905650088465</g:gtin>
+<link>https://www.croma.com/boat-airdopes-ultra-plus-tws-earbuds-with-passive-noise-cancellation-ipx5-sweat-resistant-asap-charge-active-black-/p/307710</link>
+<g:price>4990.0 INR</g:price>
+<g:sale_price>1099.0 INR</g:sale_price>
+<g:brand>boAt</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/307710_0_OlHb1utSQl.png?updatedAt=1756793291508</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/307710_0_OlHb1utSQl.png?updatedAt=1756793291508</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Active Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -58730,6 +58752,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>313705</g:id>
+<title>Croma 285mm 4 Blade Copper Motor Table Fan (3 Speed Control, White)</title>
+<description>Buy Croma 285mm 4 Blade Copper Motor Table Fan (3 Speed Control, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Fans</g:google_product_category>
+<g:product_type>Home Appliances&gt;Fans&gt;Table Fans</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Fans</g:custom_label_1>
+<g:custom_label_2>Table Fans</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901876024867</g:gtin>
+<link>https://www.croma.com/croma-285mm-4-blade-copper-motor-table-fan-3-speed-control-white-/p/313705</link>
+<g:price>5000.0 INR</g:price>
+<g:sale_price>2499.0 INR</g:sale_price>
+<g:brand>Croma</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/313705_0_w9HNLYyD9.png?updatedAt=1764948101882</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/313705_0_w9HNLYyD9.png?updatedAt=1764948101882</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>320456</g:id>
 <title>SAMSUNG AR60 5 in 1 Convertible 1.5 Ton 3 Star Inverter Split Smart AC with Voice Assistant (2026 Model, Copper Condenser, AR60H19D13WNNA)</title>
 <description>Buy SAMSUNG AR60 5 in 1 Convertible 1.5 Ton 3 Star Inverter Split Smart AC with Voice Assistant (2026 Model, Copper Condenser, AR60H19D13WNNA) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -59388,6 +59436,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>303594</g:id>
+<title>Croma 500mm 3 Blade Silent Operation Pedestal Fan (Adjustable Setting, Military Green)</title>
+<description>Buy Croma 500mm 3 Blade Silent Operation Pedestal Fan (Adjustable Setting, Military Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Fans</g:google_product_category>
+<g:product_type>Home Appliances&gt;Fans&gt;Pedestal Fans</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Fans</g:custom_label_1>
+<g:custom_label_2>Pedestal Fans</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901876019788</g:gtin>
+<link>https://www.croma.com/croma-500mm-3-blade-silent-operation-pedestal-fan-adjustable-setting-military-green-/p/303594</link>
+<g:price>4000.0 INR</g:price>
+<g:sale_price>3699.0 INR</g:sale_price>
+<g:brand>Croma</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/303594_zzfsqm.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/303594_zzfsqm.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Military Green </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -60734,36 +60808,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>224037</g:id>
-<title>SONY HT-S20R 400W Bluetooth Home Theatre with Remote (Dolby Digital, 5.1 Channel, Black)</title>
-<description>Buy SONY HT-S20R 400W Bluetooth Home Theatre with Remote (Dolby Digital, 5.1 Channel, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Home Theatres &amp; Soundbars&gt;Sound Bars</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Home Theatres &amp; Soundbars</g:custom_label_1>
-<g:custom_label_2>Sound Bars</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>4548736107144</g:gtin>
-<link>https://www.croma.com/sony-ht-s20r-400w-bluetooth-home-theatre-with-remote-dolby-digital-5-1-channel-black-/p/224037</link>
-<g:price>19990.0 INR</g:price>
-<g:sale_price>15990.0 INR</g:sale_price>
-<g:brand>Sony</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/224037_0_nAnOs45Xh.png?updatedAt=1763650013973</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/224037_0_nAnOs45Xh.png?updatedAt=1763650013973</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>323242</g:id>
 <title>SONY BRAVIA 3 II 215 cm (85 inch) 3 Star LED 4K Ultra HD Smart Google TV with Voice Assistant (2026 model)</title>
 <description>Buy SONY BRAVIA 3 II 215 cm (85 inch) LED 4K Ultra HD Smart Google TV with Voice Assistant (2026 model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -61617,36 +61661,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>323501</g:id>
-<title>Bosch 12/7 kg Fully Automatic Front Load Washer Dryer (Series 6, WNA2740SIN, EcoSilence Drive, Silver)</title>
-<description>Buy Bosch 12/7 kg Fully Automatic Front Load Washer Dryer (Series 6, WNA2740SIN, EcoSilence Drive, Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Laundry Appliances &gt; Washing Machines</g:google_product_category>
-<g:product_type>Home Appliances&gt;Washing Machines &amp; Dryers&gt;Front Load Washing Machines</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
-<g:custom_label_2>Front Load Washing Machines</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>4242005591541</g:gtin>
-<link>https://www.croma.com/bosch-12-7-kg-fully-automatic-front-load-washer-dryer-series-6-wna2740sin-ecosilence-drive-silver-/p/323501</link>
-<g:price>99990.0 INR</g:price>
-<g:sale_price>70890.0 INR</g:sale_price>
-<g:brand>Bosch</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/323501_0_mmVWIneiK.png?updatedAt=1780394992312</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/323501_0_mmVWIneiK.png?updatedAt=1780394992312</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Silver </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>129.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>319322</g:id>
 <title>elica EPBI SEMI TFT 15F MTC 80L Built-in Oven with 31 Air Fry Menu (3944, Black)</title>
 <description>Buy elica EPBI SEMI TFT 15F MTC 80L Built-in Oven with 31 Air Fry Menu (3944, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -62048,7 +62062,7 @@ updated, stay happy! </description>
 <g:custom_label_4/>
 <g:gtin>4548736169104</g:gtin>
 <link>https://www.croma.com/sony-bravia-2-ii-140-cm-55-inch-2-star-4k-ultra-hd-led-smart-google-tv-with-built-in-chromecast-2025-model-/p/315840</link>
-<g:price>91900.0 INR</g:price>
+<g:price>119900.0 INR</g:price>
 <g:sale_price>73990.0 INR</g:sale_price>
 <g:brand>Sony</g:brand>
 <g:condition>new</g:condition>
@@ -62537,36 +62551,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/307499_0_-44iMnQ80.png?updatedAt=1760548108142</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Walnut Brown </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>307956</g:id>
-<title>Native by UC M1 8L RO + UV + Copper + Alkaline + Minerals Water Purifier with Thin Film Composite Reverse Osmosis Membrane (Black)</title>
-<description>Buy Native by UC M1 8L RO + UV + Copper + Alkaline + Minerals Water Purifier with Thin Film Composite Reverse Osmosis Membrane (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Hardware &gt; Plumbing &gt; Water Dispensing &amp; Filtration &gt; Water Dispensers</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Water Purifiers &amp; Dispensers&gt;Water Purifiers</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Water Purifiers &amp; Dispensers</g:custom_label_1>
-<g:custom_label_2>Water Purifiers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8908022916113</g:gtin>
-<link>https://www.croma.com/native-by-uc-m1-8l-ro-+-uv-+-copper-+-alkaline-+-minerals-water-purifier-with-thin-film-composite-reverse-osmosis-membrane-black-/p/307956</link>
-<g:price>20999.0 INR</g:price>
-<g:sale_price>15999.0 INR</g:sale_price>
-<g:brand>Native by UC</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/307956_0_GT8hdBeD0.png?updatedAt=1758555768255</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/307956_0_GT8hdBeD0.png?updatedAt=1758555768255</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
@@ -67043,32 +67027,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/312361.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White  </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>313827</g:id>
-<title>Russell Hobbs RCM800CE 800 Watt 4 Cups Fully Automatic Espresso &amp; Cappuccino Coffee Maker with Integrated Frothing Function (Black)</title>
-<description>Buy Russell Hobbs RCM800CE 800 Watt 4 Cups Fully Automatic Espresso &amp; Cappuccino Coffee Maker with Integrated Frothing Function (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Juicers</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Beverage Makers&gt;Coffee Makers</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Beverage Makers</g:custom_label_1>
-<g:custom_label_2>Coffee Makers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906185060223</g:gtin>
-<link>https://www.croma.com/russell-hobbs-rcm800ce-800-watt-4-cups-fully-automatic-espresso-cappuccino-coffee-maker-with-integrated-frothing-function-black-/p/313827</link>
-<g:price>6295.0 INR</g:price>
-<g:sale_price>4799.0 INR</g:sale_price>
-<g:brand>Russell Hobbs</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Coffee%20Tea%20Makers/Images/313827_0_noxsa8.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Coffee%20Tea%20Makers/Images/313827_0_noxsa8.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -79905,6 +79863,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>312489</g:id>
+<title>ILIFE A20 Pro Robotic Vacuum Cleaner &amp; Mop with Wi-Fi Connectivity (Alexa &amp; Google Assistant, Dove Gray)</title>
+<description>Buy ILIFE A20 Pro Robotic Vacuum Cleaner &amp; Mop with Wi-Fi Connectivity (Alexa &amp; Google Assistant, Dove Gray) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Floor &amp; Steam Cleaner Accessories</g:google_product_category>
+<g:product_type>Home Appliances&gt;Vacuum Cleaners&gt;Robotic Vacuum Cleaners</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Vacuum Cleaners</g:custom_label_1>
+<g:custom_label_2>Robotic Vacuum Cleaners</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6971263074265</g:gtin>
+<link>https://www.croma.com/ilife-a20-pro-robotic-vacuum-cleaner-mop-with-wi-fi-connectivity-alexa-google-assistant-dove-gray-/p/312489</link>
+<g:price>69999.0 INR</g:price>
+<g:sale_price>16900.0 INR</g:sale_price>
+<g:brand>ILIFE</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/312489_0_lrk4mtaVr.png?updatedAt=1760545462837</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/312489_0_lrk4mtaVr.png?updatedAt=1760545462837</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Dove Gray </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>309537</g:id>
 <title>Croma 7 kg 5 Star Inverter Fully Automatic Front Load Washing Machine (2025 Model, Built in heater, Silver Grey)</title>
 <description>Buy Croma 7 kg 5 Star Inverter Fully Automatic Front Load Washing Machine (2025 Model, Built in heater, Silver Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -80504,32 +80492,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>305681</g:id>
-<title>FABER PRINCE PLUS 3BB BK Toughened Glass Top 3 Burner Manual Hob (Full Brass Burners, Black)</title>
-<description>Buy FABER PRINCE PLUS 3BB BK Toughened Glass Top 3 Burner Manual Hob (Full Brass Burners, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Cooktops</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Stoves &amp; Cooktops&gt;Hobs</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Stoves &amp; Cooktops</g:custom_label_1>
-<g:custom_label_2>Hobs</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>7612986270525</g:gtin>
-<link>https://www.croma.com/faber-prince-plus-3bb-bk-toughened-glass-top-3-burner-manual-hob-full-brass-burners-black-/p/305681</link>
-<g:price>12990.0 INR</g:price>
-<g:sale_price>11390.0 INR</g:sale_price>
-<g:brand>Faber</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/305681_0_fwkikb.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/305681_0_fwkikb.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>307709</g:id>
 <title>Electrolux Ultimate Taste 900 70L 60cm Built-in Microwave with SteamPro Technology (KOAAS31X, Black)</title>
 <description>Buy Electrolux Ultimate Taste 900 70L 60cm Built-in Microwave with SteamPro Technology (KOAAS31X, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -80689,7 +80651,7 @@ updated, stay happy! </description>
 <g:gtin>8903281010855</g:gtin>
 <link>https://www.croma.com/daikin-1-5-ton-5-star-inverter-split-ac-copper-condenser-pm-2-5-filter-atkm50xv16mka-/p/321189</link>
 <g:price>67200.0 INR</g:price>
-<g:sale_price>52490.0 INR</g:sale_price>
+<g:sale_price>53490.0 INR</g:sale_price>
 <g:brand>Daikin</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321189_0_yDGqC4kmK.png?updatedAt=1774975788980</g:image_link>
@@ -80895,32 +80857,6 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Stoves%20Cooktops/273806_0_pooews.png</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Stoves%20Cooktops/273806_0_pooews.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>210989</g:id>
-<title>Faber Jumbo 4BB SS Toughened Glass Top 4 Burner Manual Gas Stove (Corrosion Resistance, Black)</title>
-<description>Buy Faber Jumbo 4BB SS Toughened Glass Top 4 Burner Manual Gas Stove (Corrosion Resistance, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Cooktops</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Stoves &amp; Cooktops&gt;Gas Stoves</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Stoves &amp; Cooktops</g:custom_label_1>
-<g:custom_label_2>Gas Stoves</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>7612985520263</g:gtin>
-<link>https://www.croma.com/faber-jumbo-4bb-ss-toughened-glass-top-4-burner-manual-gas-stove-corrosion-resistance-black-/p/210989</link>
-<g:price>10890.0 INR</g:price>
-<g:sale_price>7990.0 INR</g:sale_price>
-<g:brand>Faber</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/210989_0_ukfoam.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/210989_0_ukfoam.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -81298,6 +81234,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>307955</g:id>
+<title>Godrej 12 kg 5 Star Semi Automatic Washing Machine with In-Built Soak Technology (Edge Uno, WS EDGE UNO 120 5.0 TB4, Graphite Grey)</title>
+<description>Buy Godrej 12 kg 5 Star Semi Automatic Washing Machine with In-Built Soak Technology (Edge Uno, WS EDGE UNO 120 5.0 TB4, Graphite Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Laundry Appliances &gt; Washing Machines</g:google_product_category>
+<g:product_type>Home Appliances&gt;Washing Machines &amp; Dryers&gt;Semi Automatic Washing Machines</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
+<g:custom_label_2>Semi Automatic Washing Machines</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8904134256611</g:gtin>
+<link>https://www.croma.com/godrej-12-kg-5-star-semi-automatic-washing-machine-with-in-built-soak-technology-edge-uno-ws-edge-uno-120-5-0-tb4-graphite-grey-/p/307955</link>
+<g:price>27500.0 INR</g:price>
+<g:sale_price>19590.0 INR</g:sale_price>
+<g:brand>Godrej</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/307955_0_ryeepn.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/307955_0_ryeepn.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Graphite Grey </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>316033</g:id>
 <title>SONY BRAVIA 2 II 109 cm (43 inch) 4K Ultra HD LCD Smart Android TV with Built- in Chromecast (2025 model)</title>
 <description>Buy SONY BRAVIA 2 II 109 cm (43 inch) 4K Ultra HD LCD Smart Android TV with Built- in Chromecast (2025 model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -81310,7 +81276,7 @@ updated, stay happy! </description>
 <g:custom_label_4/>
 <g:gtin>4548736168961</g:gtin>
 <link>https://www.croma.com/sony-bravia-2-ii-109-cm-43-inch-4k-ultra-hd-lcd-smart-android-tv-with-built-in-chromecast-2025-model-/p/316033</link>
-<g:price>54900.0 INR</g:price>
+<g:price>85900.0 INR</g:price>
 <g:sale_price>55990.0 INR</g:sale_price>
 <g:brand>Sony</g:brand>
 <g:condition>new</g:condition>
@@ -82092,7 +82058,7 @@ updated, stay happy! </description>
 <g:gtin>8903281009446</g:gtin>
 <link>https://www.croma.com/daikin-1-ton-3-star-inverter-split-ac-copper-condenser-pm2-5-filter-atkl35xv16waa-/p/321171</link>
 <g:price>47500.0 INR</g:price>
-<g:sale_price>37490.0 INR</g:sale_price>
+<g:sale_price>38490.0 INR</g:sale_price>
 <g:brand>Daikin</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321171_0_A6vGbnGKw.png?updatedAt=1774975664961</g:image_link>
@@ -83166,6 +83132,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>320785</g:id>
+<title>HITACHI IZEN 3400SXL Convertible 1 Ton 3 Star Inverter Split AC with Octa Sensor (Copper Condenser, RAS.G312PCDISS1)</title>
+<description>Buy HITACHI IZEN 3400SXL Convertible 1 Ton 3 Star Inverter Split AC with Octa Sensor (Copper Condenser, RAS.G312PCDISS1) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+<g:product_type>Home Appliances&gt;Air Conditioners&gt;3 Star Acs</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Air Conditioners</g:custom_label_1>
+<g:custom_label_2>3 Star Acs</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8903079507949</g:gtin>
+<link>https://www.croma.com/hitachi-izen-3400sxl-convertible-1-ton-3-star-inverter-split-ac-with-octa-sensor-copper-condenser-ras-g312pcdiss1-/p/320785</link>
+<g:price>56990.0 INR</g:price>
+<g:sale_price>33490.0 INR</g:sale_price>
+<g:brand>Hitachi</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320785_0_tnUjWaipa.png?updatedAt=1771936285297</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320785_0_tnUjWaipa.png?updatedAt=1771936285297</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>299.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>322454</g:id>
 <title>SAMSUNG QN80H 253 cm (100 inch) 2 Star Neo QLED 4K Ultra HD Smart Tizen TV with Google Voice Assistant (2026 Model)</title>
 <description>Buy SAMSUNG QN80H 253 cm (100 inch) Neo QLED 4K Ultra HD Smart Tizen TV with Google Voice Assistant (2026 Model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -83380,7 +83376,7 @@ updated, stay happy! </description>
 <g:gtin>8903281010794</g:gtin>
 <link>https://www.croma.com/daikin-1-ton-5-star-inverter-split-ac-copper-condenser-pm-2-5-filter-atkm35xv16vaa-/p/321186</link>
 <g:price>54900.0 INR</g:price>
-<g:sale_price>43990.0 INR</g:sale_price>
+<g:sale_price>44990.0 INR</g:sale_price>
 <g:brand>Daikin</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321186_0_sVPyRRr1V.png?updatedAt=1774975686322</g:image_link>
@@ -83593,32 +83589,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/304600_0_mrczoh.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Pearl White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>312250</g:id>
-<title>Croma 60 Litres Desert Air Cooler with Water Level Indicator (Inverter Compatible, White)</title>
-<description>Buy Croma 60 Litres Desert Air Cooler with Water Level Indicator, Inverter Compatible, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Evaporative Coolers</g:google_product_category>
-<g:product_type>Home Appliances&gt;Air Coolers&gt;Desert Air Coolers</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Air Coolers</g:custom_label_1>
-<g:custom_label_2>Desert Air Coolers</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
-<g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876024553</g:gtin>
-<link>https://www.croma.com/croma-60-litres-desert-air-cooler-with-water-level-indicator-inverter-compatible-white-/p/312250</link>
-<g:price>14500.0 INR</g:price>
-<g:sale_price>8499.0 INR</g:sale_price>
-<g:brand>Croma</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/312250.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/312250.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> White </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -84375,7 +84345,7 @@ updated, stay happy! </description>
 <g:gtin>8903281009569</g:gtin>
 <link>https://www.croma.com/daikin-1-5-ton-3-star-inverter-split-ac-copper-condenser-pm2-5-filter-atkl50xv16vka-/p/321177</link>
 <g:price>55100.0 INR</g:price>
-<g:sale_price>39490.0 INR</g:sale_price>
+<g:sale_price>40290.0 INR</g:sale_price>
 <g:brand>Daikin</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321177_0_RzY9lhW15.png?updatedAt=1774975656400</g:image_link>
@@ -85144,35 +85114,6 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/318948_0_72GDCdS24.png?updatedAt=1758117722940</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/318948_0_72GDCdS24.png?updatedAt=1758117722940</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>318952</g:id>
-<title>FABER HOOD SILENCIO BLDC HC SC FL BK IN 60 T 60cm 1500m3/hr Ducted Auto Clean Wall Mounted Chimney with Touch and Gesture Control (Black)</title>
-<description>Buy FABER HOOD SILENCIO BLDC HC SC FL BK IN 60 T 60cm 1500m3/hr Ducted Auto Clean Wall Mounted Chimney with Touch and Gesture Control (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Electric Chimneys</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Electric Chimneys</g:custom_label_1>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>7612986521139</g:gtin>
-<link>https://www.croma.com/faber-hood-silencio-bldc-hc-sc-fl-bk-in-60-t-60cm-1500m3-hr-ducted-auto-clean-wall-mounted-chimney-with-touch-and-gesture-control-black-/p/318952</link>
-<g:price>33990.0 INR</g:price>
-<g:sale_price>21490.0 INR</g:sale_price>
-<g:brand>Faber</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/318952_0_HcZg5zglC.png?updatedAt=1769598614073</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/318952_0_HcZg5zglC.png?updatedAt=1769598614073</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -86203,36 +86144,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/319706_0_Oy1o7Pdal.png?updatedAt=1774975777629</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Pale White &amp; Cream </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>299.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>319379</g:id>
-<title>LG 610 Litres 3 Star Frost Free French Door Smart Wifi Enabled Refrigerator with Hygiene Fresh Plus (GV-B25FFGMB, Black Glass)</title>
-<description>Buy LG 610 Litres 3 Star Frost Free French Door Smart Wifi Enabled Refrigerator with Hygiene Fresh Plus (GV-B25FFGMB, Black Glass) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Refrigerators</g:google_product_category>
-<g:product_type>Home Appliances&gt;Refrigerators &amp; Freezers&gt;French Door Refrigerators</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Refrigerators &amp; Freezers</g:custom_label_1>
-<g:custom_label_2>French Door Refrigerators</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8806096610923</g:gtin>
-<link>https://www.croma.com/lg-610-litres-3-star-frost-free-french-door-smart-wifi-enabled-refrigerator-with-hygiene-fresh-plus-gv-b25ffgmb-black-glass-/p/319379</link>
-<g:price>161990.0 INR</g:price>
-<g:sale_price>128990.0 INR</g:sale_price>
-<g:brand>LG</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/319379_0_ic9dsuBdip.png?updatedAt=1760688037745</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/319379_0_ic9dsuBdip.png?updatedAt=1760688037745</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black Glass </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
@@ -90453,32 +90364,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>310689</g:id>
-<title>Croma 2000W Induction Cooktop with 8 Preset Menus</title>
-<description>Buy Croma 2000W Induction Cooktop with 8 Preset Menus online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Cooktops</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Stoves &amp; Cooktops&gt;Induction Cooktops</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Stoves &amp; Cooktops</g:custom_label_1>
-<g:custom_label_2>Induction Cooktops</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901876023761</g:gtin>
-<link>https://www.croma.com/croma-2000w-induction-cooktop-with-8-preset-menus/p/310689</link>
-<g:price>4500.0 INR</g:price>
-<g:sale_price>3799.0 INR</g:sale_price>
-<g:brand>Croma</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/310689_qlf36u.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/310689_qlf36u.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>322484</g:id>
 <title>Redmi 15 5G (8GB RAM, 256GB, Sandy Purple)</title>
 <description>Buy Redmi 15 5G (8GB RAM, 256GB, Sandy Purple) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -92286,7 +92171,7 @@ updated, stay happy! </description>
 <g:gtin>195950087338</g:gtin>
 <link>https://www.croma.com/apple-ipad-a16-bionic-chip-wi-fi-11-inch-256gb-blue-2025-model-/p/324300</link>
 <g:price>61900.0 INR</g:price>
-<g:sale_price>59490.0 INR</g:sale_price>
+<g:sale_price>58990.0 INR</g:sale_price>
 <g:brand>Apple</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324300_0__93stuqSM.png?updatedAt=1782804544524</g:image_link>
@@ -93013,7 +92898,7 @@ updated, stay happy! </description>
 <g:gtin>195950086416</g:gtin>
 <link>https://www.croma.com/apple-ipad-a16-bionic-chip-wi-fi-11-inch-128gb-blue-2025-model-/p/324294</link>
 <g:price>49900.0 INR</g:price>
-<g:sale_price>47990.0 INR</g:sale_price>
+<g:sale_price>47490.0 INR</g:sale_price>
 <g:brand>Apple</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324294_0_OMI7y-eKZ.png?updatedAt=1782720994469</g:image_link>
@@ -101530,7 +101415,7 @@ updated, stay happy! </description>
 <g:gtin>195950086645</g:gtin>
 <link>https://www.croma.com/apple-ipad-a16-bionic-chip-wi-fi-11-inch-128gb-yellow-2025-model-/p/324243</link>
 <g:price>49900.0 INR</g:price>
-<g:sale_price>47990.0 INR</g:sale_price>
+<g:sale_price>47490.0 INR</g:sale_price>
 <g:brand>Apple</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324243_0_L3yzCFvHe.png?updatedAt=1782721168349</g:image_link>
@@ -104920,6 +104805,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>311028</g:id>
+<title>Crompton Eris 1000 Watts Dry Iron (6 Fabric Settings, Yellow &amp; Black)</title>
+<description>Buy Crompton Eris 1000 Watts Dry Iron (6 Fabric Settings, Yellow &amp; Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category/>
+<g:product_type>Home Appliances&gt;Garment Care&gt;Irons</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Garment Care</g:custom_label_1>
+<g:custom_label_2>Irons</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8902653271559</g:gtin>
+<link>https://www.croma.com/crompton-eris-1000-watts-dry-iron-6-fabric-settings-yellow-black-/p/311028</link>
+<g:price>1050.0 INR</g:price>
+<g:sale_price>569.0 INR</g:sale_price>
+<g:brand>Crompton</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Garment%20Care/Images/311028_yzwtld.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Garment%20Care/Images/311028_yzwtld.png</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Yellow and Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>314990</g:id>
 <title>Xiaomi BHR8932IN Wired Earphone with Mic (USB Type-C Connector, In Ear, Black)</title>
 <description>Buy Xiaomi BHR8932IN Wired Earphone with Mic (USB Type-C Connector, In Ear, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -105717,36 +105628,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>199.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>324321</g:id>
-<title>Apple iPad Air M4 Chip Wi-Fi (11 Inch, 256GB, Space Grey, 2026 Model)</title>
-<description>Buy Apple iPad Air M4 Chip Wi-Fi (11 Inch, 256GB, Space Grey, 2026 Model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Computers &gt; Tablet Computers</g:google_product_category>
-<g:product_type>Computers &amp; Tablets&gt;Tablets eReaders&gt;iPads</g:product_type>
-<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
-<g:custom_label_1>Tablets eReaders</g:custom_label_1>
-<g:custom_label_2>iPads</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>195950824445</g:gtin>
-<link>https://www.croma.com/apple-ipad-air-m4-chip-wi-fi-11-inch-256gb-space-grey-2026-model-/p/324321</link>
-<g:price>101900.0 INR</g:price>
-<g:sale_price>96990.0 INR</g:sale_price>
-<g:brand>Apple</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324321_0_fOEqQDRQUu.png?updatedAt=1782721189899</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324321_0_fOEqQDRQUu.png?updatedAt=1782721189899</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Space Grey </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -109174,6 +109055,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>318413</g:id>
+<title>Google Pixel 10 5G (12GB RAM, 256GB, Frost)</title>
+<description>Buy Google Pixel 10 5G (12GB RAM, 256GB, Frost) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Phones</g:custom_label_1>
+<g:custom_label_2>Android Phones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>840353926585</g:gtin>
+<link>https://www.croma.com/google-pixel-10-5g-12gb-ram-256gb-frost-/p/318413</link>
+<g:price>79999.0 INR</g:price>
+<g:sale_price>74999.0 INR</g:sale_price>
+<g:brand>Google</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/318413_0_7hv28YScjE.png?updatedAt=1755701356865</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/318413_0_7hv28YScjE.png?updatedAt=1755701356865</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Frost </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>316750</g:id>
 <title>boAt Rockerz 421 Bluetooth Headphone with Mic (60 Hours Playback, Over Ear, Sage Green)</title>
 <description>Buy boAt Rockerz 421 Bluetooth Headphone with Mic (60 Hours Playback, Over Ear, Sage Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -109556,32 +109467,6 @@ updated, stay happy! </description>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
 <g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>320348</g:id>
-<title>GABIT GSR0110GB Smart Ring with AI Powered Health Insights (Size 10, Skin Temperature Sensor, Graphite Black)</title>
-<description>Buy GABIT GSR0110GB Smart Ring with AI Powered Health Insights (Size 10, Skin Temperature Sensor, Graphite Black) online at best prices from Croma. Check product details, reviews &amp; more.</description>
-<g:google_product_category/>
-<g:product_type>Phones &amp; Wearables&gt;Wearables&gt;Smart Rings</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Wearables</g:custom_label_1>
-<g:custom_label_2>Smart Rings</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906171888749</g:gtin>
-<link>https://www.croma.com/gabit-gsr0110gb-smart-ring-with-ai-powered-health-insights-size-10-skin-temperature-sensor-graphite-black-/p/320348</link>
-<g:price>14500.0 INR</g:price>
-<g:sale_price>14500.0 INR</g:sale_price>
-<g:brand>GABIT</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/320348_0_jkSoz4epgG.png?updatedAt=1777034796813</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/320348_0_jkSoz4epgG.png?updatedAt=1777034796813</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Graphite Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -114422,32 +114307,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>320336</g:id>
-<title>GABIT GSR0108G Smart Ring with AI Powered Health Insights (Size 8, Skin Temperature Sensor, Gold)</title>
-<description>Buy GABIT GSR0108G Smart Ring with AI Powered Health Insights (Size 8, Skin Temperature Sensor, Gold) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category/>
-<g:product_type>Phones &amp; Wearables&gt;Wearables&gt;Smart Rings</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Wearables</g:custom_label_1>
-<g:custom_label_2>Smart Rings</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906171885878</g:gtin>
-<link>https://www.croma.com/gabit-gsr0108g-smart-ring-with-ai-powered-health-insights-size-8-skin-temperature-sensor-gold-/p/320336</link>
-<g:price>14500.0 INR</g:price>
-<g:sale_price>14500.0 INR</g:sale_price>
-<g:brand>GABIT</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/320336_0_0J48v3vxOr.png?updatedAt=1777032523287</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/320336_0_0J48v3vxOr.png?updatedAt=1777032523287</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Gold </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>321488</g:id>
 <title>SAMSUNG Galaxy S26 5G (12GB RAM, 512GB, White)</title>
 <description>Buy SAMSUNG Galaxy S26 5G (12GB RAM, 512GB, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!Buy SAMSUNG Galaxy S26 5G (12GB RAM, 256GB, Sky Blue) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -116715,6 +116574,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>322942</g:id>
+<title>vivo V70 Elite 5G (8GB RAM, 256GB, Sand Beige)</title>
+<description>Buy vivo V70 Elite 5G (8GB RAM, 256GB, Sand Beige) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phones</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Phones&gt;Android Phones</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Phones</g:custom_label_1>
+<g:custom_label_2>Android Phones</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6932204520302</g:gtin>
+<link>https://www.croma.com/vivo-v70-elite-5g-8gb-ram-256gb-sand-beige-/p/322942</link>
+<g:price>79999.0 INR</g:price>
+<g:sale_price>66999.0 INR</g:sale_price>
+<g:brand>Vivo</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322942_0_A3kOWGEeF.png?updatedAt=1781775765090</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/322942_0_A3kOWGEeF.png?updatedAt=1781775765090</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Sand Beige </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>324347</g:id>
 <title>Apple iPad A16 Bionic Chip Wi-Fi (11 Inch, 512GB, Pink, 2025 model)</title>
 <description>Buy Apple iPad A16 Bionic Chip Wi-Fi (11 Inch, 512GB, Pink, 2025 model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -118398,6 +118287,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>324277</g:id>
+<title>Apple MacBook Pro (14.2 inch, M5, 24GB, 1TB, macOS Tahoe, Silver)</title>
+<description>Buy Apple MacBook Pro (14.2 inch, M5, 24GB, 1TB, macOS Tahoe, Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Computers &gt; Laptops</g:google_product_category>
+<g:product_type>Computers &amp; Tablets&gt;Laptops&gt;Macbooks</g:product_type>
+<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
+<g:custom_label_1>Laptops</g:custom_label_1>
+<g:custom_label_2>Macbooks</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>195950491272</g:gtin>
+<link>https://www.croma.com/apple-macbook-pro-14-2-inch-m5-24gb-1tb-macos-tahoe-silver-/p/324277</link>
+<g:price>263900.0 INR</g:price>
+<g:sale_price>245490.0 INR</g:sale_price>
+<g:brand>Apple</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/324277_0_GD9vjhq_3.png?updatedAt=1782721361927</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/324277_0_GD9vjhq_3.png?updatedAt=1782721361927</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Silver </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>199.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>319665</g:id>
 <title>GoPro Extension Pole for Camera (Invisible-Pole Shots, Black)</title>
 <description>Buy GoPro Extension Pole for Camera (Invisible-Pole Shots, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -119937,36 +119856,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>324302</g:id>
-<title>Apple iPad Air M4 Chip Wi-Fi (13 Inch, 256GB, Space Grey, 2026 Model)</title>
-<description>Buy Apple iPad Air M4 Chip Wi-Fi (13 Inch, 256GB, Space Grey, 2026 Model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Computers &gt; Tablet Computers</g:google_product_category>
-<g:product_type>Computers &amp; Tablets&gt;Tablets eReaders&gt;iPads</g:product_type>
-<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
-<g:custom_label_1>Tablets eReaders</g:custom_label_1>
-<g:custom_label_2>iPads</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>195950798685</g:gtin>
-<link>https://www.croma.com/apple-ipad-air-m4-chip-wi-fi-13-inch-256gb-space-grey-2026-model-/p/324302</link>
-<g:price>131900.0 INR</g:price>
-<g:sale_price>125490.0 INR</g:sale_price>
-<g:brand>Apple</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324302_0_DZWKgMPWg.png?updatedAt=1782804270411</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/324302_0_DZWKgMPWg.png?updatedAt=1782804270411</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Space Grey </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>324325</g:id>
 <title>Apple MacBook Air (13.6 inch, M5, 24GB, 1TB, macOS Tahoe, Silver)</title>
 <description>Buy Apple MacBook Air (13.6 inch, M5, 24GB, 1TB, macOS Tahoe, Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -120717,32 +120606,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>316821</g:id>
-<title>HAVELLS Athena 3000 Watts 320 ml  Steam Iron (Smart i-Sense, Black)</title>
-<description>Buy HAVELLS Athena 3000 Watts 320 ml  Steam Iron (Smart i-Sense, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category/>
-<g:product_type>Home Appliances&gt;Garment Care&gt;Steam Irons</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Garment Care</g:custom_label_1>
-<g:custom_label_2>Steam Irons</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901762050031</g:gtin>
-<link>https://www.croma.com/havells-athena-3000-watts-320-ml-steam-iron-smart-i-sense-black-/p/316821</link>
-<g:price>6999.0 INR</g:price>
-<g:sale_price>4759.0 INR</g:sale_price>
-<g:brand>Havells</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Appliances/Images/316821_0_nx5eyt.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Appliances/Images/316821_0_nx5eyt.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -127811,7 +127674,7 @@ updated, stay happy! </description>
 <g:custom_label_4/>
 <g:gtin>4548736169128</g:gtin>
 <link>https://www.croma.com/sony-bravia-2-ii-109-cm-43-inch-2-star-4k-ultra-hd-lcd-smart-android-tv-with-built-in-chromecast-2025-model-/p/315862</link>
-<g:price>63900.0 INR</g:price>
+<g:price>89900.0 INR</g:price>
 <g:sale_price>57990.0 INR</g:sale_price>
 <g:brand>Sony</g:brand>
 <g:condition>new</g:condition>
@@ -129675,32 +129538,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>313705</g:id>
-<title>Croma 285mm 4 Blade Copper Motor Table Fan (3 Speed Control, White)</title>
-<description>Buy Croma 285mm 4 Blade Copper Motor Table Fan (3 Speed Control, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Fans</g:google_product_category>
-<g:product_type>Home Appliances&gt;Fans&gt;Table Fans</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Fans</g:custom_label_1>
-<g:custom_label_2>Table Fans</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901876024867</g:gtin>
-<link>https://www.croma.com/croma-285mm-4-blade-copper-motor-table-fan-3-speed-control-white-/p/313705</link>
-<g:price>5000.0 INR</g:price>
-<g:sale_price>2499.0 INR</g:sale_price>
-<g:brand>Croma</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/313705_0_w9HNLYyD9.png?updatedAt=1764948101882</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/313705_0_w9HNLYyD9.png?updatedAt=1764948101882</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>318313</g:id>
 <title>elica FLEXI 375 LOTUS IND HD BRASS Toughened Glass Top 3 Burner Automatic Hob (Cast Iron Pan Support with Heat Guard, Black)</title>
 <description>Buy elica FLEXI 375 LOTUS IND HD BRASS Toughened Glass Top 3 Burner Automatic Hob (Cast Iron Pan Support with Heat Guard, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -130595,32 +130432,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>303594</g:id>
-<title>Croma 500mm 3 Blade Silent Operation Pedestal Fan (Adjustable Setting, Military Green)</title>
-<description>Buy Croma 500mm 3 Blade Silent Operation Pedestal Fan (Adjustable Setting, Military Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Fans</g:google_product_category>
-<g:product_type>Home Appliances&gt;Fans&gt;Pedestal Fans</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Fans</g:custom_label_1>
-<g:custom_label_2>Pedestal Fans</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901876019788</g:gtin>
-<link>https://www.croma.com/croma-500mm-3-blade-silent-operation-pedestal-fan-adjustable-setting-military-green-/p/303594</link>
-<g:price>4000.0 INR</g:price>
-<g:sale_price>3699.0 INR</g:sale_price>
-<g:brand>Croma</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/303594_zzfsqm.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/303594_zzfsqm.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Military Green </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -132423,6 +132234,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>224037</g:id>
+<title>SONY HT-S20R 400W Bluetooth Home Theatre with Remote (Dolby Digital, 5.1 Channel, Black)</title>
+<description>Buy SONY HT-S20R 400W Bluetooth Home Theatre with Remote (Dolby Digital, 5.1 Channel, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Home Theatres &amp; Soundbars&gt;Sound Bars</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Home Theatres &amp; Soundbars</g:custom_label_1>
+<g:custom_label_2>Sound Bars</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>4548736107144</g:gtin>
+<link>https://www.croma.com/sony-ht-s20r-400w-bluetooth-home-theatre-with-remote-dolby-digital-5-1-channel-black-/p/224037</link>
+<g:price>19990.0 INR</g:price>
+<g:sale_price>15990.0 INR</g:sale_price>
+<g:brand>Sony</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/224037_0_nAnOs45Xh.png?updatedAt=1763650013973</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/224037_0_nAnOs45Xh.png?updatedAt=1763650013973</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>234497</g:id>
 <title>Yale 16.7 Litres Digital &amp; Manual Safety Locker (1 Shelve, YSS/250/DB2, Black)</title>
 <description>Buy Yale 16.7 Litres Digital &amp; Manual Safety Locker (1 Shelve, YSS/250/DB2, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -133465,6 +133306,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>323501</g:id>
+<title>Bosch 12/7 kg Fully Automatic Front Load Washer Dryer (Series 6, WNA2740SIN, EcoSilence Drive, Silver)</title>
+<description>Buy Bosch 12/7 kg Fully Automatic Front Load Washer Dryer (Series 6, WNA2740SIN, EcoSilence Drive, Silver) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Laundry Appliances &gt; Washing Machines</g:google_product_category>
+<g:product_type>Home Appliances&gt;Washing Machines &amp; Dryers&gt;Front Load Washing Machines</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
+<g:custom_label_2>Front Load Washing Machines</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>4242005591541</g:gtin>
+<link>https://www.croma.com/bosch-12-7-kg-fully-automatic-front-load-washer-dryer-series-6-wna2740sin-ecosilence-drive-silver-/p/323501</link>
+<g:price>99990.0 INR</g:price>
+<g:sale_price>70890.0 INR</g:sale_price>
+<g:brand>Bosch</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/323501_0_mmVWIneiK.png?updatedAt=1780394992312</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/323501_0_mmVWIneiK.png?updatedAt=1780394992312</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Silver </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>321584</g:id>
 <title>DAIKIN 2.6 Ton 3 Star Inverter Split AC (Copper Condenser, PM 2.5 Filter, FTKL90XV16LAA)</title>
 <description>Buy DAIKIN 2.6 Ton 3 Star Inverter Split AC (Copper Condenser, PM 2.5 Filter, FTKL90XV16LAA) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -134248,6 +134119,36 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/308143_egwhzt.png</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> WHITE </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>307956</g:id>
+<title>Native by UC M1 8L RO + UV + Copper + Alkaline + Minerals Water Purifier with Thin Film Composite Reverse Osmosis Membrane (Black)</title>
+<description>Buy Native by UC M1 8L RO + UV + Copper + Alkaline + Minerals Water Purifier with Thin Film Composite Reverse Osmosis Membrane (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Hardware &gt; Plumbing &gt; Water Dispensing &amp; Filtration &gt; Water Dispensers</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Water Purifiers &amp; Dispensers&gt;Water Purifiers</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Water Purifiers &amp; Dispensers</g:custom_label_1>
+<g:custom_label_2>Water Purifiers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8908022916113</g:gtin>
+<link>https://www.croma.com/native-by-uc-m1-8l-ro-+-uv-+-copper-+-alkaline-+-minerals-water-purifier-with-thin-film-composite-reverse-osmosis-membrane-black-/p/307956</link>
+<g:price>20999.0 INR</g:price>
+<g:sale_price>15999.0 INR</g:sale_price>
+<g:brand>Native by UC</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/307956_0_GT8hdBeD0.png?updatedAt=1758555768255</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Water%20Purifier/Images/307956_0_GT8hdBeD0.png?updatedAt=1758555768255</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -139942,6 +139843,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>313827</g:id>
+<title>Russell Hobbs RCM800CE 800 Watt 4 Cups Fully Automatic Espresso &amp; Cappuccino Coffee Maker with Integrated Frothing Function (Black)</title>
+<description>Buy Russell Hobbs RCM800CE 800 Watt 4 Cups Fully Automatic Espresso &amp; Cappuccino Coffee Maker with Integrated Frothing Function (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Juicers</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Beverage Makers&gt;Coffee Makers</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Beverage Makers</g:custom_label_1>
+<g:custom_label_2>Coffee Makers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906185060223</g:gtin>
+<link>https://www.croma.com/russell-hobbs-rcm800ce-800-watt-4-cups-fully-automatic-espresso-cappuccino-coffee-maker-with-integrated-frothing-function-black-/p/313827</link>
+<g:price>6295.0 INR</g:price>
+<g:sale_price>4799.0 INR</g:sale_price>
+<g:brand>Russell Hobbs</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Coffee%20Tea%20Makers/Images/313827_0_noxsa8.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Coffee%20Tea%20Makers/Images/313827_0_noxsa8.png</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -147547,7 +147474,7 @@ updated, stay happy! </description>
 <g:gtin>8904239823107</g:gtin>
 <link>https://www.croma.com/blue-star-m-series-5-in-1-convertible-1-ton-3-star-inverter-split-ac-with-ai-pro-2026-model-copper-condenser-ia312mxu-/p/320357</link>
 <g:price>49500.0 INR</g:price>
-<g:sale_price>33790.0 INR</g:sale_price>
+<g:sale_price>34490.0 INR</g:sale_price>
 <g:brand>Blue Star</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320357_0_8gn1-lPRH.png?updatedAt=1775557024423</g:image_link>
@@ -147988,7 +147915,7 @@ updated, stay happy! </description>
 <g:gtin>8903281010138</g:gtin>
 <link>https://www.croma.com/daikin-1-5-ton-3-star-hot-cold-inverter-split-ac-copper-condenser-pm-1-0-filter-ftht50xv16-/p/321523</link>
 <g:price>61600.0 INR</g:price>
-<g:sale_price>46490.0 INR</g:sale_price>
+<g:sale_price>46990.0 INR</g:sale_price>
 <g:brand>Daikin</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321523_0_xwzIeWsOC.png?updatedAt=1774975749135</g:image_link>
@@ -153880,6 +153807,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>305681</g:id>
+<title>FABER PRINCE PLUS 3BB BK Toughened Glass Top 3 Burner Manual Hob (Full Brass Burners, Black)</title>
+<description>Buy FABER PRINCE PLUS 3BB BK Toughened Glass Top 3 Burner Manual Hob (Full Brass Burners, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Cooktops</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Stoves &amp; Cooktops&gt;Hobs</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Stoves &amp; Cooktops</g:custom_label_1>
+<g:custom_label_2>Hobs</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>7612986270525</g:gtin>
+<link>https://www.croma.com/faber-prince-plus-3bb-bk-toughened-glass-top-3-burner-manual-hob-full-brass-burners-black-/p/305681</link>
+<g:price>12990.0 INR</g:price>
+<g:sale_price>11390.0 INR</g:sale_price>
+<g:brand>Faber</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/305681_0_fwkikb.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/305681_0_fwkikb.png</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>305671</g:id>
 <title>FABER Magiclift HT904 BR CI AI Toughened Glass Top 4 Burner Automatic Hob (Lift and Lock Feature, Black)</title>
 <description>Buy FABER Magiclift HT904 BR CI AI Toughened Glass Top 4 Burner Automatic Hob (Lift and Lock Feature, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -154320,6 +154273,32 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/230399_0_vxicxq.png</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/230399_0_vxicxq.png</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>210989</g:id>
+<title>Faber Jumbo 4BB SS Toughened Glass Top 4 Burner Manual Gas Stove (Corrosion Resistance, Black)</title>
+<description>Buy Faber Jumbo 4BB SS Toughened Glass Top 4 Burner Manual Gas Stove (Corrosion Resistance, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Cooktops</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Stoves &amp; Cooktops&gt;Gas Stoves</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Stoves &amp; Cooktops</g:custom_label_1>
+<g:custom_label_2>Gas Stoves</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>7612985520263</g:gtin>
+<link>https://www.croma.com/faber-jumbo-4bb-ss-toughened-glass-top-4-burner-manual-gas-stove-corrosion-resistance-black-/p/210989</link>
+<g:price>10890.0 INR</g:price>
+<g:sale_price>7990.0 INR</g:sale_price>
+<g:brand>Faber</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/210989_0_ukfoam.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/210989_0_ukfoam.png</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -154982,36 +154961,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>307955</g:id>
-<title>Godrej 12 kg 5 Star Semi Automatic Washing Machine with In-Built Soak Technology (Edge Uno, WS EDGE UNO 120 5.0 TB4, Graphite Grey)</title>
-<description>Buy Godrej 12 kg 5 Star Semi Automatic Washing Machine with In-Built Soak Technology (Edge Uno, WS EDGE UNO 120 5.0 TB4, Graphite Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Laundry Appliances &gt; Washing Machines</g:google_product_category>
-<g:product_type>Home Appliances&gt;Washing Machines &amp; Dryers&gt;Semi Automatic Washing Machines</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
-<g:custom_label_2>Semi Automatic Washing Machines</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8904134256611</g:gtin>
-<link>https://www.croma.com/godrej-12-kg-5-star-semi-automatic-washing-machine-with-in-built-soak-technology-edge-uno-ws-edge-uno-120-5-0-tb4-graphite-grey-/p/307955</link>
-<g:price>27500.0 INR</g:price>
-<g:sale_price>19590.0 INR</g:sale_price>
-<g:brand>Godrej</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/307955_0_ryeepn.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/307955_0_ryeepn.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Graphite Grey </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>129.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -157905,7 +157854,7 @@ updated, stay happy! </description>
 <g:custom_label_4/>
 <g:gtin>4548736168954</g:gtin>
 <link>https://www.croma.com/sony-bravia-2-ii-127-cm-50-inch-2-star-lcd-4k-ultra-hd-smart-android-tv-with-built-in-chromecast-2025-model-/p/316037</link>
-<g:price>72900.0 INR</g:price>
+<g:price>109900.0 INR</g:price>
 <g:sale_price>70990.0 INR</g:sale_price>
 <g:brand>Sony</g:brand>
 <g:condition>new</g:condition>
@@ -157920,36 +157869,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>99.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>320785</g:id>
-<title>HITACHI IZEN 3400SXL Convertible 1 Ton 3 Star Inverter Split AC with Octa Sensor (Copper Condenser, RAS.G312PCDISS1)</title>
-<description>Buy HITACHI IZEN 3400SXL Convertible 1 Ton 3 Star Inverter Split AC with Octa Sensor (Copper Condenser, RAS.G312PCDISS1) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
-<g:product_type>Home Appliances&gt;Air Conditioners&gt;3 Star Acs</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Air Conditioners</g:custom_label_1>
-<g:custom_label_2>3 Star Acs</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8903079507949</g:gtin>
-<link>https://www.croma.com/hitachi-izen-3400sxl-convertible-1-ton-3-star-inverter-split-ac-with-octa-sensor-copper-condenser-ras-g312pcdiss1-/p/320785</link>
-<g:price>56990.0 INR</g:price>
-<g:sale_price>33490.0 INR</g:sale_price>
-<g:brand>Hitachi</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320785_0_tnUjWaipa.png?updatedAt=1771936285297</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/320785_0_tnUjWaipa.png?updatedAt=1771936285297</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> White </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>299.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -158456,6 +158375,32 @@ updated, stay happy! </description>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
 <g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>312250</g:id>
+<title>Croma 60 Litres Desert Air Cooler with Water Level Indicator (Inverter Compatible, White)</title>
+<description>Buy Croma 60 Litres Desert Air Cooler with Water Level Indicator, Inverter Compatible, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Evaporative Coolers</g:google_product_category>
+<g:product_type>Home Appliances&gt;Air Coolers&gt;Desert Air Coolers</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Air Coolers</g:custom_label_1>
+<g:custom_label_2>Desert Air Coolers</g:custom_label_2>
+<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_4/>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876024553</g:gtin>
+<link>https://www.croma.com/croma-60-litres-desert-air-cooler-with-water-level-indicator-inverter-compatible-white-/p/312250</link>
+<g:price>14500.0 INR</g:price>
+<g:sale_price>8499.0 INR</g:sale_price>
+<g:brand>Croma</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/312250.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/312250.png</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> White </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -159842,6 +159787,35 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>318952</g:id>
+<title>FABER HOOD SILENCIO BLDC HC SC FL BK IN 60 T 60cm 1500m3/hr Ducted Auto Clean Wall Mounted Chimney with Touch and Gesture Control (Black)</title>
+<description>Buy FABER HOOD SILENCIO BLDC HC SC FL BK IN 60 T 60cm 1500m3/hr Ducted Auto Clean Wall Mounted Chimney with Touch and Gesture Control (Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Electric Chimneys</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Electric Chimneys</g:custom_label_1>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>7612986521139</g:gtin>
+<link>https://www.croma.com/faber-hood-silencio-bldc-hc-sc-fl-bk-in-60-t-60cm-1500m3-hr-ducted-auto-clean-wall-mounted-chimney-with-touch-and-gesture-control-black-/p/318952</link>
+<g:price>33990.0 INR</g:price>
+<g:sale_price>21490.0 INR</g:sale_price>
+<g:brand>Faber</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/318952_0_HcZg5zglC.png?updatedAt=1769598614073</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/318952_0_HcZg5zglC.png?updatedAt=1769598614073</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>320238</g:id>
 <title>Havells Koolxpress i 35 Litres Tower Air Cooler with Low Water Alarm (Dual Flow Technology, White &amp; Grey)</title>
 <description>Buy Havells Koolxpress i 35 Litres Tower Air Cooler with Low Water Alarm (Dual Flow Technology, White &amp; Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -160816,6 +160790,36 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>319379</g:id>
+<title>LG 610 Litres 3 Star Frost Free French Door Smart Wifi Enabled Refrigerator with Hygiene Fresh Plus (GV-B25FFGMB, Black Glass)</title>
+<description>Buy LG 610 Litres 3 Star Frost Free French Door Smart Wifi Enabled Refrigerator with Hygiene Fresh Plus (GV-B25FFGMB, Black Glass) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Refrigerators</g:google_product_category>
+<g:product_type>Home Appliances&gt;Refrigerators &amp; Freezers&gt;French Door Refrigerators</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Refrigerators &amp; Freezers</g:custom_label_1>
+<g:custom_label_2>French Door Refrigerators</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8806096610923</g:gtin>
+<link>https://www.croma.com/lg-610-litres-3-star-frost-free-french-door-smart-wifi-enabled-refrigerator-with-hygiene-fresh-plus-gv-b25ffgmb-black-glass-/p/319379</link>
+<g:price>161990.0 INR</g:price>
+<g:sale_price>128990.0 INR</g:sale_price>
+<g:brand>LG</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/319379_0_ic9dsuBdip.png?updatedAt=1760688037745</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/319379_0_ic9dsuBdip.png?updatedAt=1760688037745</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> Black Glass </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>299.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
