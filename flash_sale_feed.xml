@@ -86352,16 +86352,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Air Coolers</g:custom_label_1>
 <g:custom_label_2>Desert Air Coolers</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876025154</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876025154</g:gtin>
 <link>https://www.croma.com/croma-az-1801-125-litres-desert-air-cooler-inverter-compatible-grey-/p/315210</link>
 <g:price>20000.0 INR</g:price>
 <g:sale_price>14999.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/315210_0_x665n0.png?updatedAt=1754026631742</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/315210_0_x665n0.png?updatedAt=1754026631742</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/315210.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/315210.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Grey </g:color>
 <g:shipping>
@@ -154973,16 +154973,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Air Coolers</g:custom_label_1>
 <g:custom_label_2>Desert Air Coolers</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876024553</g:gtin>
+<g:gtin>8901876024553</g:gtin>
 <link>https://www.croma.com/croma-60-litres-desert-air-cooler-with-water-level-indicator-inverter-compatible-white-/p/312250</link>
 <g:price>14500.0 INR</g:price>
 <g:sale_price>8499.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/312250.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/312250.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/GIF/312250_LxZcN5lBA.gif?updatedAt=1774956919452</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/GIF/312250_LxZcN5lBA.gif?updatedAt=1774956919452</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> White </g:color>
 <g:shipping>
