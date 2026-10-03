@@ -1834,32 +1834,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>318243</g:id>
-<title>Croma Frost Tempered Glass &amp; TPU Back Cover Combo for Apple iPhone Air (Magsafe Charging Compatible, Clear Ice)</title>
-<description>Buy Croma Frost Tempered Glass &amp; TPU Back Cover Combo for Apple iPhone Air (Magsafe Charging Compatible, Clear Ice) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Cover &amp; Cases</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Mobile Cover &amp; Cases</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901876026267</g:gtin>
-<link>https://www.croma.com/croma-frost-tempered-glass-tpu-back-cover-combo-for-apple-iphone-air-magsafe-charging-compatible-clear-ice-/p/318243</link>
-<g:price>2000.0 INR</g:price>
-<g:sale_price>1299.0 INR</g:sale_price>
-<g:brand>Croma</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/318243_0_juz8qIPjjx.png?updatedAt=1758280218619</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/318243_0_juz8qIPjjx.png?updatedAt=1758280218619</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Clear Ice </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>316088</g:id>
 <title>soundREVO Melbourne Nylon, PU Fabric Laptop Backpack for 14 Inch Laptop (6.99 L, Water Resistant, Green)</title>
 <description>Buy soundREVO Melbourne Nylon, PU Fabric Laptop Backpack for 14 Inch Laptop (6.99 L, Water Resistant, Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -1880,6 +1854,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Bags%20And%20Sleeves/Images/316088_0_JePFSVIGo.png?updatedAt=1763097368722</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Green </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>318243</g:id>
+<title>Croma Frost Tempered Glass &amp; TPU Back Cover Combo for Apple iPhone Air (Magsafe Charging Compatible, Clear Ice)</title>
+<description>Buy Croma Frost Tempered Glass &amp; TPU Back Cover Combo for Apple iPhone Air (Magsafe Charging Compatible, Clear Ice) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Cover &amp; Cases</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Mobile Cover &amp; Cases</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901876026267</g:gtin>
+<link>https://www.croma.com/croma-frost-tempered-glass-tpu-back-cover-combo-for-apple-iphone-air-magsafe-charging-compatible-clear-ice-/p/318243</link>
+<g:price>2000.0 INR</g:price>
+<g:sale_price>1299.0 INR</g:sale_price>
+<g:brand>Croma</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/318243_0_juz8qIPjjx.png?updatedAt=1758280218619</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/318243_0_juz8qIPjjx.png?updatedAt=1758280218619</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Clear Ice </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -2616,16 +2616,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Windows Laptops</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>5397184000960</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>5397184000960</g:gtin>
 <link>https://www.croma.com/dell-14-plus-intel-core-ultra-7-thin-light-laptop-16gb-512gb-ssd-windows-11-home-14-inch-2-5k-ips-display-ms-office-home-2024-ice-blue-1-55-kg-/p/323787</link>
 <g:price>122072.0 INR</g:price>
 <g:sale_price>111990.0 INR</g:sale_price>
 <g:brand>Dell</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323787_0_aM2nmAWmH.png?updatedAt=1785491695639</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323787_0_aM2nmAWmH.png?updatedAt=1785491695639</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323787.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323787.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Ice Blue </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -5058,6 +5058,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/316213_0_PRbmkdYM5u.png?updatedAt=1754301191708</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>319896</g:id>
+<title>boAt Airdopes Prime 513 ANC PP0043 TWS Earbuds with AI Environmental Noise Cancellation (IPX4 Sweat &amp; Splash Resistant, Multipoint Connectivity, Ivory Glow)</title>
+<description>Buy boAt Airdopes Prime 513 ANC PP0043 TWS Earbuds with AI Environmental Noise Cancellation (IPX4 Sweat &amp; Splash Resistant, Multipoint Connectivity, Ivory Glow) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8905650118216</g:gtin>
+<link>https://www.croma.com/boat-airdopes-prime-513-anc-pp0043-tws-earbuds-with-ai-environmental-noise-cancellation-ipx4-sweat-splash-resistant-multipoint-connectivity-ivory-glow-/p/319896</link>
+<g:price>5990.0 INR</g:price>
+<g:sale_price>1699.0 INR</g:sale_price>
+<g:brand>boAt</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/319896_0_FqiPYyz5J.png?updatedAt=1765871430572</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/319896_0_FqiPYyz5J.png?updatedAt=1765871430572</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Ivory Glow </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -9594,32 +9620,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>234872</g:id>
-<title>Croma Nutri 450 Watt 5 Jars Blender (21500 RPM, Overload Protection, Teal Green)</title>
-<description>Buy Croma Nutri 450 Watt 5 Jars Blender (21500 RPM, Overload Protection, Teal Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Juicers &amp; Blenders</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
-<g:custom_label_2>Juicers &amp; Blenders</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901876009635</g:gtin>
-<link>https://www.croma.com/croma-nutri-450-watt-5-jars-blender-21500-rpm-overload-protection-teal-green-/p/234872</link>
-<g:price>5000.0 INR</g:price>
-<g:sale_price>3199.0 INR</g:sale_price>
-<g:brand>Croma</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/234872_0_Vqf46GDcN.png?updatedAt=1784807175665</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/234872_0_Vqf46GDcN.png?updatedAt=1784807175665</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Teal Green </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>275293</g:id>
 <title>Croma Flip Cover for Apple iPad 10.2 Inch (Apple Compatible, Black)</title>
 <description>Buy Croma 0.75 Ton 3 Star Window AC (Copper Condenser, Dust Filter) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -9640,6 +9640,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275293_0_ln27tc.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>234872</g:id>
+<title>Croma Nutri 450 Watt 5 Jars Blender (21500 RPM, Overload Protection, Teal Green)</title>
+<description>Buy Croma Nutri 450 Watt 5 Jars Blender (21500 RPM, Overload Protection, Teal Green) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Juicers &amp; Blenders</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
+<g:custom_label_2>Juicers &amp; Blenders</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901876009635</g:gtin>
+<link>https://www.croma.com/croma-nutri-450-watt-5-jars-blender-21500-rpm-overload-protection-teal-green-/p/234872</link>
+<g:price>5000.0 INR</g:price>
+<g:sale_price>3199.0 INR</g:sale_price>
+<g:brand>Croma</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/234872_0_Vqf46GDcN.png?updatedAt=1784807175665</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/234872_0_Vqf46GDcN.png?updatedAt=1784807175665</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Teal Green </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -12911,32 +12937,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>240366</g:id>
-<title>Rico 550 Watt 2 Jars Juicer Mixer Grinder (18000 RPM, Super Powerful Motor, White)</title>
-<description>Buy Rico 550 Watt 2 Jars Juicer Mixer Grinder (18000 RPM, Super Powerful Motor, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Juicer Mixer Grinders</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
-<g:custom_label_2>Juicer Mixer Grinders</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901307103031</g:gtin>
-<link>https://www.croma.com/rico-550-watt-2-jars-juicer-mixer-grinder-18000-rpm-super-powerful-motor-white-/p/240366</link>
-<g:price>4975.0 INR</g:price>
-<g:sale_price>3984.0 INR</g:sale_price>
-<g:brand>Rico</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/240366_0_g1w3gq.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/240366_0_g1w3gq.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>236321</g:id>
 <title>Vaku 20W Type C Fast Charger (Adapter Only, Comprehensive Protection, Grey)</title>
 <description>Buy Vaku 20W Type C Fast Charger (Adapter Only, Comprehensive Protection, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -12957,6 +12957,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Chargers%20and%20Batteries/Images/236321_0_bn79cv.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Grey-AT-SG-ProductAesthetics-ColorFamily </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>240366</g:id>
+<title>Rico 550 Watt 2 Jars Juicer Mixer Grinder (18000 RPM, Super Powerful Motor, White)</title>
+<description>Buy Rico 550 Watt 2 Jars Juicer Mixer Grinder (18000 RPM, Super Powerful Motor, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Juicer Mixer Grinders</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
+<g:custom_label_2>Juicer Mixer Grinders</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901307103031</g:gtin>
+<link>https://www.croma.com/rico-550-watt-2-jars-juicer-mixer-grinder-18000-rpm-super-powerful-motor-white-/p/240366</link>
+<g:price>4975.0 INR</g:price>
+<g:sale_price>3984.0 INR</g:sale_price>
+<g:brand>Rico</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/240366_0_g1w3gq.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/240366_0_g1w3gq.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -14447,32 +14473,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>275290</g:id>
-<title>Croma Flip Cover for Apple iPad 10.9 Inch (Apple Compatible, Blue)</title>
-<description>Buy Croma 0.75 Ton 3 Star Window AC (Copper Condenser, Dust Filter) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Electronics Accessories &gt; Computer Accessories</g:google_product_category>
-<g:product_type>Computers &amp; Tablets&gt;Tablet &amp; iPad Accessories&gt;Tablet and iPad Covers Cases &amp; Sleeves</g:product_type>
-<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
-<g:custom_label_1>Tablet &amp; iPad Accessories</g:custom_label_1>
-<g:custom_label_2>Tablet and iPad Covers Cases &amp; Sleeves</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8901876018163</g:gtin>
-<link>https://www.croma.com/croma-flip-cover-for-apple-ipad-10-9-inch-apple-compatible-blue-/p/275290</link>
-<g:price>1199.0 INR</g:price>
-<g:sale_price>499.0 INR</g:sale_price>
-<g:brand>Croma</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275290_0_rcw1cv.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275290_0_rcw1cv.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Blue </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>275270</g:id>
 <title>Croma 4-in-1 Rechargeable Cordless Grooming Kit for Nose, Ear, Eyebrow, Beard &amp; Moustache for Men (120min Runtime, IPX6 Water Resistant, Black)</title>
 <description>Buy Croma 0.75 Ton 3 Star Window AC (Copper Condenser, Dust Filter) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -14526,6 +14526,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>275290</g:id>
+<title>Croma Flip Cover for Apple iPad 10.9 Inch (Apple Compatible, Blue)</title>
+<description>Buy Croma 0.75 Ton 3 Star Window AC (Copper Condenser, Dust Filter) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Electronics Accessories &gt; Computer Accessories</g:google_product_category>
+<g:product_type>Computers &amp; Tablets&gt;Tablet &amp; iPad Accessories&gt;Tablet and iPad Covers Cases &amp; Sleeves</g:product_type>
+<g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
+<g:custom_label_1>Tablet &amp; iPad Accessories</g:custom_label_1>
+<g:custom_label_2>Tablet and iPad Covers Cases &amp; Sleeves</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8901876018163</g:gtin>
+<link>https://www.croma.com/croma-flip-cover-for-apple-ipad-10-9-inch-apple-compatible-blue-/p/275290</link>
+<g:price>1199.0 INR</g:price>
+<g:sale_price>499.0 INR</g:sale_price>
+<g:brand>Croma</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275290_0_rcw1cv.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/275290_0_rcw1cv.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Blue </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -17415,32 +17441,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>274976</g:id>
-<title>OnePlus Nord Buds 2r TWS Earbuds with AI Noise Cancellation (IP55 Water &amp; Sweat Resistant, 38 Hours Playback, Misty Grey)</title>
-<description>Buy OnePlus Nord Buds 2r TWS Earbuds with AI Noise Cancellation (IP55 Water &amp; Sweat Resistant, 38 Hours Playback, Misty Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6921815624448</g:gtin>
-<link>https://www.croma.com/oneplus-nord-buds-2r-tws-earbuds-with-ai-noise-cancellation-ip55-water-sweat-resistant-38-hours-playback-misty-grey-/p/274976</link>
-<g:price>2299.0 INR</g:price>
-<g:sale_price>1524.0 INR</g:sale_price>
-<g:brand>OnePlus</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/274976_0_juVHuly5o.png?updatedAt=1760548426709</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/274976_0_juVHuly5o.png?updatedAt=1760548426709</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Misty Grey </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>269964</g:id>
 <title>boAt Rockerz Trinity Neckband (Bluetooth 5.2, Cosmic Black)</title>
 <description>Buy boAt Rockerz Trinity Neckband (Bluetooth 5.2, Cosmic Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -17461,6 +17461,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/269964_0_pigjzh.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Cosmic Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>274976</g:id>
+<title>OnePlus Nord Buds 2r TWS Earbuds with AI Noise Cancellation (IP55 Water &amp; Sweat Resistant, 38 Hours Playback, Misty Grey)</title>
+<description>Buy OnePlus Nord Buds 2r TWS Earbuds with AI Noise Cancellation (IP55 Water &amp; Sweat Resistant, 38 Hours Playback, Misty Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6921815624448</g:gtin>
+<link>https://www.croma.com/oneplus-nord-buds-2r-tws-earbuds-with-ai-noise-cancellation-ip55-water-sweat-resistant-38-hours-playback-misty-grey-/p/274976</link>
+<g:price>2299.0 INR</g:price>
+<g:sale_price>1524.0 INR</g:sale_price>
+<g:brand>OnePlus</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/274976_0_juVHuly5o.png?updatedAt=1760548426709</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/274976_0_juVHuly5o.png?updatedAt=1760548426709</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Misty Grey </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -21438,6 +21464,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>315604</g:id>
+<title>urbn UPC461 Type A to Lightning, Type C, Type C to Lightning, Type C 1 Feet (0.30M) 4-in-1 Cable (Quick Charge Technology, Black)</title>
+<description>Buy urbn UPC461 Type A to Lightning, Type C, Type C to Lightning, Type C 1 Feet (0.30M) 4-in-1 Cable (Quick Charge Technology, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;USB Cables</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>USB Cables</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906130402306</g:gtin>
+<link>https://www.croma.com/urbn-upc461-type-a-to-lightning-type-c-type-c-to-lightning-type-c-1-feet-0-30m-4-in-1-cable-quick-charge-technology-black-/p/315604</link>
+<g:price>1999.0 INR</g:price>
+<g:sale_price>634.0 INR</g:sale_price>
+<g:brand>Urbn</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/315604_0_wUX8TZVPxr.png?updatedAt=1754562982549</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/315604_0_wUX8TZVPxr.png?updatedAt=1754562982549</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>320226</g:id>
 <title>Philips Lumea IPL 8000 Series 3-in-1 Corded Hair Removal Device for Face &amp; Body for Men &amp; Women (SenseIQ, White)</title>
 <description>Buy Philips Lumea IPL 8000 Series 3-in-1 Corded Hair Removal Device for Face &amp; Body for Men &amp; Women (SenseIQ, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -21464,32 +21516,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>315604</g:id>
-<title>urbn UPC461 Type A to Lightning, Type C, Type C to Lightning, Type C 1 Feet (0.30M) 4-in-1 Cable (Quick Charge Technology, Black)</title>
-<description>Buy urbn UPC461 Type A to Lightning, Type C, Type C to Lightning, Type C 1 Feet (0.30M) 4-in-1 Cable (Quick Charge Technology, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;USB Cables</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>USB Cables</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906130402306</g:gtin>
-<link>https://www.croma.com/urbn-upc461-type-a-to-lightning-type-c-type-c-to-lightning-type-c-1-feet-0-30m-4-in-1-cable-quick-charge-technology-black-/p/315604</link>
-<g:price>1999.0 INR</g:price>
-<g:sale_price>634.0 INR</g:sale_price>
-<g:brand>Urbn</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/315604_0_wUX8TZVPxr.png?updatedAt=1754562982549</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/315604_0_wUX8TZVPxr.png?updatedAt=1754562982549</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -23150,6 +23176,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>234886</g:id>
+<title>Insta360 Dual-Lens 360 Mod Lens Guard for One R (Reinforced Lens Shields, IN.00000001.06, Black)</title>
+<description>Buy Insta360 Dual-Lens 360 Mod Lens Protector for One R (Reinforced Lens Shields, IN.00000001.06, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Cameras &amp; Optics &gt; Camera &amp; Optic Accessories</g:google_product_category>
+<g:product_type>Cameras &amp; Accessories&gt;Camera Accessories&gt;Camera Lens Accessories</g:product_type>
+<g:custom_label_0>Cameras &amp; Accessories</g:custom_label_0>
+<g:custom_label_1>Camera Accessories</g:custom_label_1>
+<g:custom_label_2>Camera Lens Accessories</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6970357851621</g:gtin>
+<link>https://www.croma.com/insta360-dual-lens-360-mod-lens-guard-for-one-r-reinforced-lens-shields-in-00000001-06-black-/p/234886</link>
+<g:price>3990.0 INR</g:price>
+<g:sale_price>634.0 INR</g:sale_price>
+<g:brand>Insta360</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>234891</g:id>
 <title>iGear Health Digital Pulse Monitor/Oximeter (Perfusion Index of 0.3%, iG-A3, White)</title>
 <description>&lt;p&gt;&lt;strong&gt;Why buy iGear Health Digital Pulse Monitor/Oximeter&lt;/strong&gt;&lt;/p&gt;
@@ -23186,32 +23238,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/234891_cyl1dm.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>234886</g:id>
-<title>Insta360 Dual-Lens 360 Mod Lens Guard for One R (Reinforced Lens Shields, IN.00000001.06, Black)</title>
-<description>Buy Insta360 Dual-Lens 360 Mod Lens Protector for One R (Reinforced Lens Shields, IN.00000001.06, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Cameras &amp; Optics &gt; Camera &amp; Optic Accessories</g:google_product_category>
-<g:product_type>Cameras &amp; Accessories&gt;Camera Accessories&gt;Camera Lens Accessories</g:product_type>
-<g:custom_label_0>Cameras &amp; Accessories</g:custom_label_0>
-<g:custom_label_1>Camera Accessories</g:custom_label_1>
-<g:custom_label_2>Camera Lens Accessories</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6970357851621</g:gtin>
-<link>https://www.croma.com/insta360-dual-lens-360-mod-lens-guard-for-one-r-reinforced-lens-shields-in-00000001-06-black-/p/234886</link>
-<g:price>3990.0 INR</g:price>
-<g:sale_price>634.0 INR</g:sale_price>
-<g:brand>Insta360</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Unclassified/Images/234886_slqxrq.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -27915,16 +27941,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Computers &amp; Tablets</g:custom_label_0>
 <g:custom_label_1>Laptops</g:custom_label_1>
 <g:custom_label_2>Windows Laptops</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>199896407861</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>199896407861</g:gtin>
 <link>https://www.croma.com/hp-15-fc0782au-amd-ryzen-5-laptop-16gb-512gb-ssd-windows-11-home-15-6-inch-full-hd-ips-display-natural-silver-1-59-kg-/p/323067</link>
 <g:price>95240.0 INR</g:price>
 <g:sale_price>69990.0 INR</g:sale_price>
 <g:brand>HP</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323067_0_Jytn60IAy.png?updatedAt=1783326775132</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/323067_0_Jytn60IAy.png?updatedAt=1783326775132</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323067.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323067.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Natural Sliver </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -30248,32 +30274,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>265898</g:id>
-<title>HYPHEN DEFENDR Tempered Glass for Apple iPhone 14 Pro Max (Full Coverage)</title>
-<description>Buy HYPHEN DEFENDR Tempered Glass for Apple iPhone 14 Pro Max (Full Coverage) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Screen Protectors</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Mobile Screen Protectors</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>6290360124933</g:gtin>
-<link>https://www.croma.com/hyphen-defendr-tempered-glass-for-apple-iphone-14-pro-max-full-coverage-/p/265898</link>
-<g:price>1499.0 INR</g:price>
-<g:sale_price>494.0 INR</g:sale_price>
-<g:brand>HYPHEN</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/265898_0_wghdxq.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/265898_0_wghdxq.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Clear </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>263678</g:id>
 <title>Inbase Luxe Matte Back Cover for Apple iPhone 14 Plus (Anti-Microbial, Black)</title>
 <description>Buy Inbase Luxe Matte Back Cover for Apple iPhone 14 Plus (Anti-Microbial, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -30294,6 +30294,32 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Cases%20and%20Covers/Images/263678_0_thjlae.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>265898</g:id>
+<title>HYPHEN DEFENDR Tempered Glass for Apple iPhone 14 Pro Max (Full Coverage)</title>
+<description>Buy HYPHEN DEFENDR Tempered Glass for Apple iPhone 14 Pro Max (Full Coverage) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Mobile Screen Protectors</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Mobile Screen Protectors</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>6290360124933</g:gtin>
+<link>https://www.croma.com/hyphen-defendr-tempered-glass-for-apple-iphone-14-pro-max-full-coverage-/p/265898</link>
+<g:price>1499.0 INR</g:price>
+<g:sale_price>494.0 INR</g:sale_price>
+<g:brand>HYPHEN</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/265898_0_wghdxq.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/265898_0_wghdxq.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Clear </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -41833,30 +41859,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>224665</g:id>
-<title>in base Ultra Slim TPU Back Cover for SAMSUNG Galaxy S20 Ultra (Eco Friendly, Clear)</title>
-<description>Buy in base Ultra Slim TPU Back Cover for SAMSUNG Galaxy S20 Ultra (Eco Friendly, Clear) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics</g:google_product_category>
-<g:product_type/>
-<g:custom_label_0/>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8907290018994</g:gtin>
-<link>https://www.croma.com/in-base-ultra-slim-tpu-back-cover-for-samsung-galaxy-s20-ultra-eco-friendly-clear-/p/224665</link>
-<g:price>1299.0 INR</g:price>
-<g:sale_price>534.0 INR</g:sale_price>
-<g:brand>InBase</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/224665_0_mnw6eq.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/224665_0_mnw6eq.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Clear </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>227059</g:id>
 <title>SVARAS Home Rechargeable UV Sterilizer (Voice Alarm, X2 Pro, White)</title>
 <description>&lt;p&gt;&lt;b&gt;HEUV Technology&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Thanks to the HEUV technology, the SVARAS Home X2 Pro UV Steriliser effectively targets and eliminates a wide range of viruses and bacteria, including those responsible for illnesses such as the coronavirus. As a result, you can have peace of mind knowing that you can effectively protect yourself and your family from potential health threats.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Enhanced Sterilisation&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;This rechargeable UV steriliser provides optimal sterilisation capabilities, which eliminates harmful germs. This high level of effectiveness makes it an ideal choice for homes, offices, and shops, ensuring that surfaces remain clean and safe. Thus, you can trust this steriliser to protect your health and the health of your loved ones by efficiently disinfecting various surfaces.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;User-Friendly Functionality&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;This home steriliser boasts convenient features that enhance its usability. It includes a voice alarm that signals when the sterilisation process is complete, ensuring you never forget to turn it off. Additionally, the device offers a safe automatic power-off feature, which enhances safety during operation. Convenient charging capabilities further simplify the user experience, which makes it easy to keep the steriliser ready for action.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Eco-Friendly Design&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Designed with sustainability in mind, this SVARAS steriliser promotes an eco-friendly lifestyle. It operates without mercury or harsh chemicals, which makes it safe for both users and the environment. This design choice allows you to maintain a clean living space while reducing your ecological footprint. Moreover, the sleek, modern appearance of the steriliser ensures that it complements any decor.&lt;/p&gt;</description>
@@ -41877,6 +41879,30 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/8932336762910.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>224665</g:id>
+<title>in base Ultra Slim TPU Back Cover for SAMSUNG Galaxy S20 Ultra (Eco Friendly, Clear)</title>
+<description>Buy in base Ultra Slim TPU Back Cover for SAMSUNG Galaxy S20 Ultra (Eco Friendly, Clear) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics</g:google_product_category>
+<g:product_type/>
+<g:custom_label_0/>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8907290018994</g:gtin>
+<link>https://www.croma.com/in-base-ultra-slim-tpu-back-cover-for-samsung-galaxy-s20-ultra-eco-friendly-clear-/p/224665</link>
+<g:price>1299.0 INR</g:price>
+<g:sale_price>534.0 INR</g:sale_price>
+<g:brand>InBase</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/224665_0_mnw6eq.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/224665_0_mnw6eq.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Clear </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -43337,32 +43363,6 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/317182_0_APVaLXrdr.png?updatedAt=1768309893164</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>319015</g:id>
-<title>Agaro SM3675 Scalp Massager (Silicone, Ergonomic Design, 34132, White)</title>
-<description>Buy Agaro SM3675 Scalp Massager (Silicone, Ergonomic Design, 34132, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Health &amp; Beauty &gt; Health Care</g:google_product_category>
-<g:product_type>Health &amp; Fitness&gt;Health Care Products&gt;Massagers</g:product_type>
-<g:custom_label_0>Health &amp; Fitness</g:custom_label_0>
-<g:custom_label_1>Health Care Products</g:custom_label_1>
-<g:custom_label_2>Massagers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8904320036294</g:gtin>
-<link>https://www.croma.com/agaro-sm3675-scalp-massager-silicone-ergonomic-design-34132-white-/p/319015</link>
-<g:price>2999.0 INR</g:price>
-<g:sale_price>1149.0 INR</g:sale_price>
-<g:brand>Agaro</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/319015_0_NkdXTJ7uyC.png?updatedAt=1763648735070</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/319015_0_NkdXTJ7uyC.png?updatedAt=1763648735070</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> White </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
@@ -46735,7 +46735,7 @@ updated, stay happy! </description>
 <g:internal_label>['edlp']</g:internal_label><g:gtin>8906194457939</g:gtin>
 <link>https://www.croma.com/acer-aspire-lite-intel-core-3-100u-laptop-8gb-256gb-ssd-windows-11-home-15-6-inch-full-hd-ips-display-ms-office-home-student-2021-grey-1-59-kg-/p/323752</link>
 <g:price>71999.0 INR</g:price>
-<g:sale_price>42990.0 INR</g:sale_price>
+<g:sale_price>44490.0 INR</g:sale_price>
 <g:brand>Acer</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323752.png</g:image_link>
@@ -51495,36 +51495,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>321820</g:id>
-<title>Samsung Galaxy Buds4 SM-R540NZKA TWS Earbuds with Active Noise Cancellation (360 Audio with Head Tracking, Black)</title>
-<description>Buy Samsung Galaxy Buds4 SM-R540NZKA TWS Earbuds with Active Noise Cancellation (360 Audio with Head Tracking, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8806097998549</g:gtin>
-<link>https://www.croma.com/samsung-galaxy-buds4-sm-r540nzka-tws-earbuds-with-active-noise-cancellation-360-audio-with-head-tracking-black-/p/321820</link>
-<g:price>16999.0 INR</g:price>
-<g:sale_price>16999.0 INR</g:sale_price>
-<g:brand>Samsung</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/321820_0_YRfxDInen.png?updatedAt=1772191270627</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/321820_0_YRfxDInen.png?updatedAt=1772191270627</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>321311</g:id>
 <title>Dyson Airwrap id 6-in-1 Multi Styler &amp; Dryer with Bluetooth Enabled (Conical Barrel, Ceramic Pink and Rose Gold)</title>
 <description>Buy Dyson Airwrap id 6-in-1 Multi Styler &amp; Dryer with Bluetooth Enabled (Conical Barrel, Ceramic Pink and Rose Gold) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -51545,6 +51515,36 @@ updated, stay happy! </description>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/321311_0_d1CUA3sj-.png?updatedAt=1771914114045</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Ceramic Pink and Rose Gold </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>321820</g:id>
+<title>Samsung Galaxy Buds4 SM-R540NZKA TWS Earbuds with Active Noise Cancellation (360 Audio with Head Tracking, Black)</title>
+<description>Buy Samsung Galaxy Buds4 SM-R540NZKA TWS Earbuds with Active Noise Cancellation (360 Audio with Head Tracking, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
+<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8806097998549</g:gtin>
+<link>https://www.croma.com/samsung-galaxy-buds4-sm-r540nzka-tws-earbuds-with-active-noise-cancellation-360-audio-with-head-tracking-black-/p/321820</link>
+<g:price>16999.0 INR</g:price>
+<g:sale_price>16999.0 INR</g:sale_price>
+<g:brand>Samsung</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/321820_0_YRfxDInen.png?updatedAt=1772191270627</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/321820_0_YRfxDInen.png?updatedAt=1772191270627</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
@@ -52203,32 +52203,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>260181</g:id>
-<title>urbn Nano 10000 mAh 20W Fast Charging Power Bank (1 Type A &amp; 1 Type C, 12 Layer Circuit Protection, Black)</title>
-<description>Buy urbn Nano 10000 mAh 20W Fast Charging Power Bank (1 Type A &amp; 1 Type C, 12 Layer Circuit Protection, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
-<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Power Banks</g:product_type>
-<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
-<g:custom_label_1>Mobile Accessories</g:custom_label_1>
-<g:custom_label_2>Power Banks</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8906130400616</g:gtin>
-<link>https://www.croma.com/urbn-nano-10000-mah-20w-fast-charging-power-bank-1-type-a-1-type-c-12-layer-circuit-protection-black-/p/260181</link>
-<g:price>2999.0 INR</g:price>
-<g:sale_price>1004.0 INR</g:sale_price>
-<g:brand>Urbn</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/260181_0_qkclu0.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/260181_0_qkclu0.png</g:additional_image_link>
-<g:availability>in_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>256022</g:id>
 <title>Portronics Power M 10000 mAh 18W Fast Charging Power Bank (1 Micro USB Type B, 1 Type C &amp; 2 Type A Ports, LED Charging Indicator, Black)</title>
 <description>Buy Portronics Power M 10000 mAh 18W Fast Charging Power Bank (1 Micro USB Type B, 1 Type C &amp; 2 Type A Ports, LED Charging Indicator, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -52247,6 +52221,32 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/PowerBank/Images/256022_0_rckfna.png</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/PowerBank/Images/256022_0_rckfna.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>260181</g:id>
+<title>urbn Nano 10000 mAh 20W Fast Charging Power Bank (1 Type A &amp; 1 Type C, 12 Layer Circuit Protection, Black)</title>
+<description>Buy urbn Nano 10000 mAh 20W Fast Charging Power Bank (1 Type A &amp; 1 Type C, 12 Layer Circuit Protection, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Communications &gt; Telephony &gt; Mobile Phone Accessories</g:google_product_category>
+<g:product_type>Phones &amp; Wearables&gt;Mobile Accessories&gt;Power Banks</g:product_type>
+<g:custom_label_0>Phones &amp; Wearables</g:custom_label_0>
+<g:custom_label_1>Mobile Accessories</g:custom_label_1>
+<g:custom_label_2>Power Banks</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8906130400616</g:gtin>
+<link>https://www.croma.com/urbn-nano-10000-mah-20w-fast-charging-power-bank-1-type-a-1-type-c-12-layer-circuit-protection-black-/p/260181</link>
+<g:price>2999.0 INR</g:price>
+<g:sale_price>1004.0 INR</g:sale_price>
+<g:brand>Urbn</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/260181_0_qkclu0.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/260181_0_qkclu0.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -55823,6 +55823,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>209784</g:id>
+<title>SAREGAMA Carvaan Marathi 6W Portable Bluetooth Speaker (5 Hours Playtime, Stereo Channel, Porcelain White)</title>
+<description>Buy Saregama Carvaan Marathi 6W Portable Bluetooth Speaker (5 Hours Playtime, Stereo Channel, Porcelain White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Speaker &amp; Media Player&gt;Portable Bluetooth Speakers</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Speaker &amp; Media Player</g:custom_label_1>
+<g:custom_label_2>Portable Bluetooth Speakers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8902057400418</g:gtin>
+<link>https://www.croma.com/saregama-carvaan-marathi-6w-portable-bluetooth-speaker-5-hours-playtime-stereo-channel-porcelain-white-/p/209784</link>
+<g:price>7190.0 INR</g:price>
+<g:sale_price>7190.0 INR</g:sale_price>
+<g:brand>Saregama</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/209784_0_lgmllm.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/209784_0_lgmllm.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>305029</g:id>
 <title>PHILIPS HD9850 All Purpose Kit For Airfryer (Dishwasher Safe, HD9850/01, Multicolour)</title>
 <description>Buy PHILIPS HD9850 Baking Kit (Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -56011,6 +56037,36 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/322418_0_sy8AOIlCl.png?updatedAt=1777464096556</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/322418_0_sy8AOIlCl.png?updatedAt=1777464096556</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>299.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>323367</g:id>
+<title>Blue Star 0.8 Ton 2 Star Fixed Speed Window AC (2026 Model, Copper Condenser, WFA209LXU)</title>
+<description>Buy Blue Star 0.8 Ton 2 Star Fixed Speed Window AC (2026 Model, Copper Condenser, WFA209LXU) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+<g:product_type>Home Appliances&gt;Air Conditioners&gt;Window ACs</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Air Conditioners</g:custom_label_1>
+<g:custom_label_2>Window ACs</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8904239801693</g:gtin>
+<link>https://www.croma.com/blue-star-0-8-ton-2-star-fixed-speed-window-ac-2026-model-copper-condenser-wfa209lxu-/p/323367</link>
+<g:price>30000.0 INR</g:price>
+<g:sale_price>28490.0 INR</g:sale_price>
+<g:brand>Blue Star</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323367_0_xlMylftFC.png?updatedAt=1779695958596</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323367_0_xlMylftFC.png?updatedAt=1779695958596</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> White </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -56387,6 +56443,36 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>323371</g:id>
+<title>Blue Star 5 in 1 Convertible 1.5 Ton 5 Star Inverter Window AC with Humidity Control (2026 Model, Copper Condenser, WIA518LXU)</title>
+<description>Buy Blue Star 5 in 1 Convertible 1.5 Ton 5 Star Inverter Window AC with Humidity Control (2026 Model, Copper Condenser, WIA518LXU) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+<g:product_type>Home Appliances&gt;Air Conditioners&gt;Window ACs</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Air Conditioners</g:custom_label_1>
+<g:custom_label_2>Window ACs</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8904239801631</g:gtin>
+<link>https://www.croma.com/blue-star-5-in-1-convertible-1-5-ton-5-star-inverter-window-ac-with-humidity-control-2026-model-copper-condenser-wia518lxu-/p/323371</link>
+<g:price>48500.0 INR</g:price>
+<g:sale_price>39490.0 INR</g:sale_price>
+<g:brand>Blue Star</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323371_0_JR2mEiklc.png?updatedAt=1779695925996</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323371_0_JR2mEiklc.png?updatedAt=1779695925996</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>299.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -62765,6 +62851,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>323121</g:id>
+<title>Ninja Combi HyperSteam 12.5L 1780 Watt Digital Multi-Cooker, Oven &amp; Air Fryer with Hot Air Technology (Sea Salt Grey)</title>
+<description>Buy Ninja Combi HyperSteam 12.5L 1780 Watt Digital Multi-Cooker, Oven &amp; Air Fryer with Hot Air Technology (Sea Salt Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Cooking Appliances&gt;Air Fryers</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Cooking Appliances</g:custom_label_1>
+<g:custom_label_2>Air Fryers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>0622356350259</g:gtin>
+<link>https://www.croma.com/ninja-combi-hypersteam-12-5l-1780-watt-digital-multi-cooker-oven-air-fryer-with-hot-air-technology-sea-salt-grey-/p/323121</link>
+<g:price>29990.0 INR</g:price>
+<g:sale_price>25999.0 INR</g:sale_price>
+<g:brand>Shark Ninja</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Fryer/Images/323121_0_OfTyR21fwQ.png?updatedAt=1778051826799</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Fryer/Images/323121_0_OfTyR21fwQ.png?updatedAt=1778051826799</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Sea Salt Grey </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>322033</g:id>
 <title>Mycro Fine Wonder Plus 750 Watts 6 Kg Flour Mill Machine (Aircooled High Tech Filter, LMWONDERPLUS3DBALL, Black)</title>
 <description>Buy Mycro Fine Wonder Plus 750 Watts 6 Kg Flour Mill Machine (Aircooled High Tech Filter, LMWONDERPLUS3DBALL, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -63703,6 +63819,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>299.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>320263</g:id>
+<title>Bosch PureMixx 800 Watt 5 Jars Mixer Grinder (22500 RPM, Patented Stone Pounding Technology, Black)</title>
+<description>Buy Bosch PureMixx 800 Watt 5 Jars Mixer Grinder (22500 RPM, Patented Stone Pounding Technology, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Mixer Grinders</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
+<g:custom_label_2>Mixer Grinders</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>4242005580224</g:gtin>
+<link>https://www.croma.com/bosch-puremixx-800-watt-5-jars-mixer-grinder-22500-rpm-patented-stone-pounding-technology-black-/p/320263</link>
+<g:price>16475.0 INR</g:price>
+<g:sale_price>9899.0 INR</g:sale_price>
+<g:brand>Bosch</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/320263_0_qncKhxeRxK.png?updatedAt=1776260766507</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/320263_0_qncKhxeRxK.png?updatedAt=1776260766507</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -66902,6 +67044,36 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>321867</g:id>
+<title>Whirlpool Ice Magic Pro 192 Litres 3 Star Direct Cool Single Door Refrigerator with Microblock Technology (73675, Grey)</title>
+<description>Buy Whirlpool Ice Magic Pro 192 Litres 3 Star Direct Cool Single Door Refrigerator with Microblock Technology (73675, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Refrigerators</g:google_product_category>
+<g:product_type>Home Appliances&gt;Refrigerators &amp; Freezers&gt;Single Door Refrigerators</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Refrigerators &amp; Freezers</g:custom_label_1>
+<g:custom_label_2>Single Door Refrigerators</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8905191050310</g:gtin>
+<link>https://www.croma.com/whirlpool-ice-magic-pro-192-litres-3-star-direct-cool-single-door-refrigerator-with-microblock-technology-73675-grey-/p/321867</link>
+<g:price>20750.0 INR</g:price>
+<g:sale_price>18490.0 INR</g:sale_price>
+<g:brand>Whirlpool</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321867_0__YbaUQmfi.png?updatedAt=1776409201783</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321867_0__YbaUQmfi.png?updatedAt=1776409201783</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Cool Illusia </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>129.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>321295</g:id>
 <title>LG 466 Litres 2 Star Frost Free Double Door Smart Wifi Enabled Convertible Refrigerator with Hygiene Fresh+ (GLT4626TMES, Ebony Sheen)</title>
 <description>Buy LG 466 Litres 2 Star Frost Free Double Door Smart Wifi Enabled Convertible Refrigerator with Hygiene Fresh+ (GLT4626TMES, Ebony Sheen) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -67464,7 +67636,7 @@ updated, stay happy! </description>
 <g:gtin>8903124020379</g:gtin>
 <link>https://www.croma.com/haier-12-kg-5-star-wi-fi-fully-automatic-front-load-washing-machine-f9-hw120-dm14f9bku1-direct-motion-motor-black-/p/316651</link>
 <g:price>69990.0 INR</g:price>
-<g:sale_price>50090.0 INR</g:sale_price>
+<g:sale_price>51990.0 INR</g:sale_price>
 <g:brand>Haier</g:brand>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/316651_0_aLHNKzs6R.png?updatedAt=1766430610222</g:image_link>
@@ -77270,6 +77442,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>301442</g:id>
+<title>boAt Aavante Bar Aspire 10W RMS Bluetooth Soundbar ( 2.0 Channel, Black)</title>
+<description>Buy boAt Aavante Bar Aspire 10W RMS Bluetooth Soundbar ( 2.0 Channel, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
+<g:product_type>Audio &amp; Video&gt;Home Theatres &amp; Soundbars&gt;Sound Bars</g:product_type>
+<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
+<g:custom_label_1>Home Theatres &amp; Soundbars</g:custom_label_1>
+<g:custom_label_2>Sound Bars</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8905650050745</g:gtin>
+<link>https://www.croma.com/boat-aavante-bar-aspire-10w-rms-bluetooth-soundbar-2-0-channel-black-/p/301442</link>
+<g:price>3490.0 INR</g:price>
+<g:sale_price>1149.0 INR</g:sale_price>
+<g:brand>boAt</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Home%20Theatres%20and%20Audio%20Systems/Images/301442_0_rrmuuz.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Home%20Theatres%20and%20Audio%20Systems/Images/301442_0_rrmuuz.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Classic Black </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>303448</g:id>
 <title>PHILIPS 1000i Series Smart Air Purifier with Alexa &amp; Google Home Enabled (NanoProtect HEPA Technology, White)</title>
 <description>Buy PHILIPS 1000i Series Smart Air Purifier with Alexa &amp; Google Home Enabled (NanoProtect HEPA Technology, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -78049,6 +78247,32 @@ updated, stay happy! </description>
 <g:offer_type>NO_CODE</g:offer_type>
 <g:redemption_channel>ONLINE</g:redemption_channel>
 <g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>231666</g:id>
+<title>BOSCH TrueMixx 750 Watt 4 Jars Mixer Grinder (22000 RPM, HiFlux Motor, Black)</title>
+<description>Buy BOSCH TrueMixx 750 Watt 4 Jars Mixer Grinder (22000 RPM, HiFlux Motor, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
+<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Mixer Grinders</g:product_type>
+<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
+<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
+<g:custom_label_2>Mixer Grinders</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>4242005252992</g:gtin>
+<link>https://www.croma.com/bosch-truemixx-750-watt-4-jars-mixer-grinder-22000-rpm-hiflux-motor-black-/p/231666</link>
+<g:price>9725.0 INR</g:price>
+<g:sale_price>5599.0 INR</g:sale_price>
+<g:brand>Bosch</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/231666_x0qfa0.png</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/231666_x0qfa0.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Black </g:color>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
@@ -79579,6 +79803,36 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>323369</g:id>
+<title>Blue Star 1.5 Ton 3 Star Fixed Speed Window AC (2026 Model, Copper Condenser, WFA318GXU)</title>
+<description>Buy Blue Star 1.5 Ton 3 Star Fixed Speed Window AC (2026 Model, Copper Condenser, WFA318GXU) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+<g:product_type>Home Appliances&gt;Air Conditioners&gt;Window ACs</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Air Conditioners</g:custom_label_1>
+<g:custom_label_2>Window ACs</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8904239801686</g:gtin>
+<link>https://www.croma.com/blue-star-1-5-ton-3-star-fixed-speed-window-ac-2026-model-copper-condenser-wfa318gxu-/p/323369</link>
+<g:price>42000.0 INR</g:price>
+<g:sale_price>34990.0 INR</g:sale_price>
+<g:brand>Blue Star</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323369_0_d5m23tJXe.png?updatedAt=1779695936740</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323369_0_d5m23tJXe.png?updatedAt=1779695936740</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> White </g:color>
+<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
+<g:offer_type>NO_CODE</g:offer_type>
+<g:redemption_channel>ONLINE</g:redemption_channel>
+<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>299.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -89847,32 +90101,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>129.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>319896</g:id>
-<title>boAt Airdopes Prime 513 ANC PP0043 TWS Earbuds with AI Environmental Noise Cancellation (IPX4 Sweat &amp; Splash Resistant, Multipoint Connectivity, Ivory Glow)</title>
-<description>Buy boAt Airdopes Prime 513 ANC PP0043 TWS Earbuds with AI Environmental Noise Cancellation (IPX4 Sweat &amp; Splash Resistant, Multipoint Connectivity, Ivory Glow) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio &gt; Audio Components &gt; Headphones &amp; Headsets</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Headphones &amp; Earphones&gt;Truly Wireless Earbuds</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Headphones &amp; Earphones</g:custom_label_1>
-<g:custom_label_2>Truly Wireless Earbuds</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8905650118216</g:gtin>
-<link>https://www.croma.com/boat-airdopes-prime-513-anc-pp0043-tws-earbuds-with-ai-environmental-noise-cancellation-ipx4-sweat-splash-resistant-multipoint-connectivity-ivory-glow-/p/319896</link>
-<g:price>5990.0 INR</g:price>
-<g:sale_price>1699.0 INR</g:sale_price>
-<g:brand>boAt</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/319896_0_FqiPYyz5J.png?updatedAt=1765871430572</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/319896_0_FqiPYyz5J.png?updatedAt=1765871430572</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Ivory Glow </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>29.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -114471,6 +114699,32 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
+<g:id>319015</g:id>
+<title>Agaro SM3675 Scalp Massager (Silicone, Ergonomic Design, 34132, White)</title>
+<description>Buy Agaro SM3675 Scalp Massager (Silicone, Ergonomic Design, 34132, White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Health &amp; Beauty &gt; Health Care</g:google_product_category>
+<g:product_type>Health &amp; Fitness&gt;Health Care Products&gt;Massagers</g:product_type>
+<g:custom_label_0>Health &amp; Fitness</g:custom_label_0>
+<g:custom_label_1>Health Care Products</g:custom_label_1>
+<g:custom_label_2>Massagers</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>8904320036294</g:gtin>
+<link>https://www.croma.com/agaro-sm3675-scalp-massager-silicone-ergonomic-design-34132-white-/p/319015</link>
+<g:price>2999.0 INR</g:price>
+<g:sale_price>1149.0 INR</g:sale_price>
+<g:brand>Agaro</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/319015_0_NkdXTJ7uyC.png?updatedAt=1763648735070</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Health%20Care/Images/319015_0_NkdXTJ7uyC.png?updatedAt=1763648735070</g:additional_image_link>
+<g:availability>out_of_stock</g:availability>
+<g:color> White </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>29.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
 <g:id>316581</g:id>
 <title>Nothing CMF Buds 2 Plus A10600104 TWS Earbuds with Adaptive Noise Cancellation (IP55, IPX2 Water Resistant, Hi-Res Audio with LDAC, Light Grey)</title>
 <description>Buy Nothing CMF Buds 2 Plus A10600104 TWS Earbuds with Adaptive Noise Cancellation (IP55, IPX2 Water Resistant, Hi-Res Audio with LDAC, Light Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -123615,32 +123869,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>209784</g:id>
-<title>SAREGAMA Carvaan Marathi 6W Portable Bluetooth Speaker (5 Hours Playtime, Stereo Channel, Porcelain White)</title>
-<description>Buy Saregama Carvaan Marathi 6W Portable Bluetooth Speaker (5 Hours Playtime, Stereo Channel, Porcelain White) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Electronics &gt; Audio</g:google_product_category>
-<g:product_type>Audio &amp; Video&gt;Speaker &amp; Media Player&gt;Portable Bluetooth Speakers</g:product_type>
-<g:custom_label_0>Audio &amp; Video</g:custom_label_0>
-<g:custom_label_1>Speaker &amp; Media Player</g:custom_label_1>
-<g:custom_label_2>Portable Bluetooth Speakers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8902057400418</g:gtin>
-<link>https://www.croma.com/saregama-carvaan-marathi-6w-portable-bluetooth-speaker-5-hours-playtime-stereo-channel-porcelain-white-/p/209784</link>
-<g:price>7190.0 INR</g:price>
-<g:sale_price>7190.0 INR</g:sale_price>
-<g:brand>Saregama</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/209784_0_lgmllm.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/209784_0_lgmllm.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> White </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>305027</g:id>
 <title>PHILIPS HD9835 Pizza Kit For Airfryer (Dishwasher Safe, HD9835/01, Multicolour)</title>
 <description>Buy PHILIPS HD9835 Pan (Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -123833,36 +124061,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>323367</g:id>
-<title>Blue Star 0.8 Ton 2 Star Fixed Speed Window AC (2026 Model, Copper Condenser, WFA209LXU)</title>
-<description>Buy Blue Star 0.8 Ton 2 Star Fixed Speed Window AC (2026 Model, Copper Condenser, WFA209LXU) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
-<g:product_type>Home Appliances&gt;Air Conditioners&gt;Window ACs</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Air Conditioners</g:custom_label_1>
-<g:custom_label_2>Window ACs</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8904239801693</g:gtin>
-<link>https://www.croma.com/blue-star-0-8-ton-2-star-fixed-speed-window-ac-2026-model-copper-condenser-wfa209lxu-/p/323367</link>
-<g:price>30000.0 INR</g:price>
-<g:sale_price>28490.0 INR</g:sale_price>
-<g:brand>Blue Star</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323367_0_xlMylftFC.png?updatedAt=1779695958596</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323367_0_xlMylftFC.png?updatedAt=1779695958596</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> White </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>299.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -124410,36 +124608,6 @@ updated, stay happy! </description>
 <g:condition>new</g:condition>
 <g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321704_0_4VacajJ766.png?updatedAt=1775646807571</g:image_link>
 <g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/321704_0_4VacajJ766.png?updatedAt=1775646807571</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> White </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>299.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>323371</g:id>
-<title>Blue Star 5 in 1 Convertible 1.5 Ton 5 Star Inverter Window AC with Humidity Control (2026 Model, Copper Condenser, WIA518LXU)</title>
-<description>Buy Blue Star 5 in 1 Convertible 1.5 Ton 5 Star Inverter Window AC with Humidity Control (2026 Model, Copper Condenser, WIA518LXU) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
-<g:product_type>Home Appliances&gt;Air Conditioners&gt;Window ACs</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Air Conditioners</g:custom_label_1>
-<g:custom_label_2>Window ACs</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8904239801631</g:gtin>
-<link>https://www.croma.com/blue-star-5-in-1-convertible-1-5-ton-5-star-inverter-window-ac-with-humidity-control-2026-model-copper-condenser-wia518lxu-/p/323371</link>
-<g:price>48500.0 INR</g:price>
-<g:sale_price>39490.0 INR</g:sale_price>
-<g:brand>Blue Star</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323371_0_JR2mEiklc.png?updatedAt=1779695925996</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323371_0_JR2mEiklc.png?updatedAt=1779695925996</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> White </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -131473,36 +131641,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>323121</g:id>
-<title>Ninja Combi HyperSteam 12.5L 1780 Watt Digital Multi-Cooker, Oven &amp; Air Fryer with Hot Air Technology (Sea Salt Grey)</title>
-<description>Buy Ninja Combi HyperSteam 12.5L 1780 Watt Digital Multi-Cooker, Oven &amp; Air Fryer with Hot Air Technology (Sea Salt Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Cooking Appliances&gt;Air Fryers</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Cooking Appliances</g:custom_label_1>
-<g:custom_label_2>Air Fryers</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>0622356350259</g:gtin>
-<link>https://www.croma.com/ninja-combi-hypersteam-12-5l-1780-watt-digital-multi-cooker-oven-air-fryer-with-hot-air-technology-sea-salt-grey-/p/323121</link>
-<g:price>29990.0 INR</g:price>
-<g:sale_price>25999.0 INR</g:sale_price>
-<g:brand>Shark Ninja</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Fryer/Images/323121_0_OfTyR21fwQ.png?updatedAt=1778051826799</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Fryer/Images/323121_0_OfTyR21fwQ.png?updatedAt=1778051826799</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Sea Salt Grey </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>323468</g:id>
 <title>TCL X series 215.9 cm (85 inch) 1 Star SQD-Mini LED 4K Super Ultra HD Smart Google TV with Google Voice Assistant (2026 Model)</title>
 <description>Buy TCL X series 215.9 cm (85 inch) 1 Star SQD-Mini LED 4K Super Ultra HD Smart Google TV with Google Voice Assistant (2026 Model) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -132738,32 +132876,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>299.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>320263</g:id>
-<title>Bosch PureMixx 800 Watt 5 Jars Mixer Grinder (22500 RPM, Patented Stone Pounding Technology, Black)</title>
-<description>Buy Bosch PureMixx 800 Watt 5 Jars Mixer Grinder (22500 RPM, Patented Stone Pounding Technology, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Mixer Grinders</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
-<g:custom_label_2>Mixer Grinders</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>4242005580224</g:gtin>
-<link>https://www.croma.com/bosch-puremixx-800-watt-5-jars-mixer-grinder-22500-rpm-patented-stone-pounding-technology-black-/p/320263</link>
-<g:price>16475.0 INR</g:price>
-<g:sale_price>9899.0 INR</g:sale_price>
-<g:brand>Bosch</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/320263_0_qncKhxeRxK.png?updatedAt=1776260766507</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/320263_0_qncKhxeRxK.png?updatedAt=1776260766507</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -136112,36 +136224,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>321867</g:id>
-<title>Whirlpool Ice Magic Pro 192 Litres 3 Star Direct Cool Single Door Refrigerator with Microblock Technology (73675, Grey)</title>
-<description>Buy Whirlpool Ice Magic Pro 192 Litres 3 Star Direct Cool Single Door Refrigerator with Microblock Technology (73675, Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliances &gt; Refrigerators</g:google_product_category>
-<g:product_type>Home Appliances&gt;Refrigerators &amp; Freezers&gt;Single Door Refrigerators</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Refrigerators &amp; Freezers</g:custom_label_1>
-<g:custom_label_2>Single Door Refrigerators</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8905191050310</g:gtin>
-<link>https://www.croma.com/whirlpool-ice-magic-pro-192-litres-3-star-direct-cool-single-door-refrigerator-with-microblock-technology-73675-grey-/p/321867</link>
-<g:price>20750.0 INR</g:price>
-<g:sale_price>18490.0 INR</g:sale_price>
-<g:brand>Whirlpool</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321867_0__YbaUQmfi.png?updatedAt=1776409201783</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321867_0__YbaUQmfi.png?updatedAt=1776409201783</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Cool Illusia </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>129.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -147979,32 +148061,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>231666</g:id>
-<title>BOSCH TrueMixx 750 Watt 4 Jars Mixer Grinder (22000 RPM, HiFlux Motor, Black)</title>
-<description>Buy BOSCH TrueMixx 750 Watt 4 Jars Mixer Grinder (22000 RPM, HiFlux Motor, Black) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Appliance Accessories</g:google_product_category>
-<g:product_type>Kitchen Appliances&gt;Food Preparation Appliances&gt;Mixer Grinders</g:product_type>
-<g:custom_label_0>Kitchen Appliances</g:custom_label_0>
-<g:custom_label_1>Food Preparation Appliances</g:custom_label_1>
-<g:custom_label_2>Mixer Grinders</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>4242005252992</g:gtin>
-<link>https://www.croma.com/bosch-truemixx-750-watt-4-jars-mixer-grinder-22000-rpm-hiflux-motor-black-/p/231666</link>
-<g:price>9725.0 INR</g:price>
-<g:sale_price>5599.0 INR</g:sale_price>
-<g:brand>Bosch</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/231666_x0qfa0.png</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/231666_x0qfa0.png</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Black </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>263540</g:id>
 <title>Marshall Woburn III 150 Watts Portable Bluetooth Speaker (Signature Sound, Stereo Channel, Cream)</title>
 <description>Buy Marshall Woburn III 150 Watts Portable Bluetooth Speaker (Signature Sound, Stereo Channel, Cream) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -149435,36 +149491,6 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
-<g:id>323369</g:id>
-<title>Blue Star 1.5 Ton 3 Star Fixed Speed Window AC (2026 Model, Copper Condenser, WFA318GXU)</title>
-<description>Buy Blue Star 1.5 Ton 3 Star Fixed Speed Window AC (2026 Model, Copper Condenser, WFA318GXU) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
-<g:product_type>Home Appliances&gt;Air Conditioners&gt;Window ACs</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Air Conditioners</g:custom_label_1>
-<g:custom_label_2>Window ACs</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>8904239801686</g:gtin>
-<link>https://www.croma.com/blue-star-1-5-ton-3-star-fixed-speed-window-ac-2026-model-copper-condenser-wfa318gxu-/p/323369</link>
-<g:price>42000.0 INR</g:price>
-<g:sale_price>34990.0 INR</g:sale_price>
-<g:brand>Blue Star</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323369_0_d5m23tJXe.png?updatedAt=1779695936740</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/323369_0_d5m23tJXe.png?updatedAt=1779695936740</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> White </g:color>
-<g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
-<g:offer_type>NO_CODE</g:offer_type>
-<g:redemption_channel>ONLINE</g:redemption_channel>
-<g:promotion_destination>SHOPPING_ADS</g:promotion_destination>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>299.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
