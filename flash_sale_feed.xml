@@ -69068,16 +69068,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
 <g:custom_label_2>Semi Automatic Washing Machines</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876018798</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876018798</g:gtin>
 <link>https://www.croma.com/croma-8-kg-5-star-semi-automatic-washing-machine-with-magic-filter-crlw080smf248602-black-/p/300475</link>
 <g:price>16000.0 INR</g:price>
 <g:sale_price>9990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/300475_0_Ol4z1IzKF1.png?updatedAt=1773143121573</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/300475_0_Ol4z1IzKF1.png?updatedAt=1773143121573</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/300475.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/300475.png</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Black </g:color>
 <g:shipping>
@@ -70820,16 +70820,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Washing Machines &amp; Dryers</g:custom_label_1>
 <g:custom_label_2>Semi Automatic Washing Machines</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876028568</g:gtin>
+<g:gtin>8901876028568</g:gtin>
 <link>https://www.croma.com/croma-12-kg-5-star-semi-automatic-washing-machine-with-pulsator-technology-dark-grey-/p/323684</link>
 <g:price>25000.0 INR</g:price>
 <g:sale_price>15990.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323684.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/323684.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/323684_0_aOR3G-mGl.png?updatedAt=1785746578004</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/323684_0_aOR3G-mGl.png?updatedAt=1785746578004</g:additional_image_link>
 <g:availability>in_stock</g:availability>
 <g:color> Dark Grey </g:color>
 <g:product_applicability>SPECIFIC_PRODUCTS</g:product_applicability>
@@ -75804,6 +75804,32 @@ updated, stay happy! </description>
 <g:shipping>
 <g:country>IN</g:country>
 <g:price>299.0 INR</g:price>
+</g:shipping>
+</item>
+<item>
+<g:id>259150</g:id>
+<title>PHILIPS 5000 Series 1900W Cordless Dry Vacuum Cleaner with PowerCyclone 7 Technology (TriActive Nozzle, Magic Purple)</title>
+<description>Buy PHILIPS 5000 Series 1900W Cordless Dry Vacuum Cleaner with PowerCyclone 7 Technology (TriActive Nozzle, Magic Purple) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
+<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Floor &amp; Steam Cleaner Accessories</g:google_product_category>
+<g:product_type>Home Appliances&gt;Vacuum Cleaners&gt;Dry Vacuum Cleaners</g:product_type>
+<g:custom_label_0>Home Appliances</g:custom_label_0>
+<g:custom_label_1>Vacuum Cleaners</g:custom_label_1>
+<g:custom_label_2>Dry Vacuum Cleaners</g:custom_label_2>
+<g:custom_label_3/>
+<g:custom_label_4/>
+<g:gtin>0883957101282</g:gtin>
+<link>https://www.croma.com/philips-5000-series-1900w-cordless-dry-vacuum-cleaner-with-powercyclone-7-technology-triactive-nozzle-magic-purple-/p/259150</link>
+<g:price>14995.0 INR</g:price>
+<g:sale_price>11589.0 INR</g:sale_price>
+<g:brand>Philips</g:brand>
+<g:condition>new</g:condition>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/259150_0_vZjZIIie8.png?updatedAt=1763650177608</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/259150_0_vZjZIIie8.png?updatedAt=1763650177608</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:color> Magic Purple </g:color>
+<g:shipping>
+<g:country>IN</g:country>
+<g:price>49.0 INR</g:price>
 </g:shipping>
 </item>
 <item>
@@ -145236,32 +145262,6 @@ updated, stay happy! </description>
 </g:shipping>
 </item>
 <item>
-<g:id>259150</g:id>
-<title>PHILIPS 5000 Series 1900W Cordless Dry Vacuum Cleaner with PowerCyclone 7 Technology (TriActive Nozzle, Magic Purple)</title>
-<description>Buy PHILIPS 5000 Series 1900W Cordless Dry Vacuum Cleaner with PowerCyclone 7 Technology (TriActive Nozzle, Magic Purple) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
-<g:google_product_category>Home &amp; Garden &gt; Household Appliance Accessories &gt; Floor &amp; Steam Cleaner Accessories</g:google_product_category>
-<g:product_type>Home Appliances&gt;Vacuum Cleaners&gt;Dry Vacuum Cleaners</g:product_type>
-<g:custom_label_0>Home Appliances</g:custom_label_0>
-<g:custom_label_1>Vacuum Cleaners</g:custom_label_1>
-<g:custom_label_2>Dry Vacuum Cleaners</g:custom_label_2>
-<g:custom_label_3/>
-<g:custom_label_4/>
-<g:gtin>0883957101282</g:gtin>
-<link>https://www.croma.com/philips-5000-series-1900w-cordless-dry-vacuum-cleaner-with-powercyclone-7-technology-triactive-nozzle-magic-purple-/p/259150</link>
-<g:price>14995.0 INR</g:price>
-<g:sale_price>11589.0 INR</g:sale_price>
-<g:brand>Philips</g:brand>
-<g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/259150_0_vZjZIIie8.png?updatedAt=1763650177608</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/259150_0_vZjZIIie8.png?updatedAt=1763650177608</g:additional_image_link>
-<g:availability>out_of_stock</g:availability>
-<g:color> Magic Purple </g:color>
-<g:shipping>
-<g:country>IN</g:country>
-<g:price>49.0 INR</g:price>
-</g:shipping>
-</item>
-<item>
 <g:id>260937</g:id>
 <title>Kutchina KLEANMATE ECO 12 Place Settings Free Standing Dishwasher with Height Adjustable Tray (Light Grey)</title>
 <description>Buy Kutchina KLEANMATE ECO 12 Place Settings Free Standing Dishwasher with Height Adjustable Tray (Light Grey) online at best prices from Croma. Check product details, reviews &amp; more. Shop now!</description>
@@ -147795,16 +147795,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Home Appliances</g:custom_label_0>
 <g:custom_label_1>Vacuum Cleaners</g:custom_label_1>
 <g:custom_label_2>Dry Vacuum Cleaners</g:custom_label_2>
-<g:custom_label_3>edlp</g:custom_label_3>
+<g:custom_label_3/>
 <g:custom_label_4/>
-<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876010679</g:gtin>
+<g:gtin>8901876010679</g:gtin>
 <link>https://www.croma.com/croma-1600w-dry-vacuum-cleaner-with-cyclonic-technology-reusable-dust-bag-red-/p/241914</link>
 <g:price>8000.0 INR</g:price>
 <g:sale_price>6199.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/241914.png</g:image_link>
-<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/241914.png</g:additional_image_link>
+<g:image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/241914_0_t43UeXJJ8.png?updatedAt=1760548765898</g:image_link>
+<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/241914_0_t43UeXJJ8.png?updatedAt=1760548765898</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> Red </g:color>
 <g:shipping>
@@ -150216,16 +150216,16 @@ updated, stay happy! </description>
 <g:custom_label_0>Televisions &amp; Accessories</g:custom_label_0>
 <g:custom_label_1>LED TVs</g:custom_label_1>
 <g:custom_label_2>HD Ready TVs</g:custom_label_2>
-<g:custom_label_3/>
+<g:custom_label_3>edlp</g:custom_label_3>
 <g:custom_label_4/>
-<g:gtin>8901876028247</g:gtin>
+<g:internal_label>['edlp']</g:internal_label><g:gtin>8901876028247</g:gtin>
 <link>https://www.croma.com/croma-80cm-32-inch-1-star-hd-led-smart-google-tv-5-0-with-dolby-audio-2026-model-/p/322520</link>
 <g:price>19000.0 INR</g:price>
 <g:sale_price>13490.0 INR</g:sale_price>
 <g:brand>Croma</g:brand>
 <g:condition>new</g:condition>
-<g:image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/322520_0_g5yQfTK64.png?updatedAt=1779775712700</g:image_link>
-<g:additional_image_link>https://media.tatacroma.com/Croma%20Assets/Entertainment/Television/322520_0_g5yQfTK64.png?updatedAt=1779775712700</g:additional_image_link>
+<g:image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/322520.png</g:image_link>
+<g:additional_image_link>https://khyatisok.github.io/croma-flash-gmc-frame/images/322520.png</g:additional_image_link>
 <g:availability>out_of_stock</g:availability>
 <g:color> BLACK </g:color>
 <g:shipping>
